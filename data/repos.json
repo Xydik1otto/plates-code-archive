@@ -87,7 +87,7 @@
       "full_name": "esphome/esphome",
       "url": "https://github.com/esphome/esphome",
       "desc": "ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.",
-      "stars": 12026,
+      "stars": 12027,
       "lang": "C++",
       "topics": [
         "esp32",
@@ -175,7 +175,7 @@
       "full_name": "ailyProject/aily-blockly",
       "url": "https://github.com/ailyProject/aily-blockly",
       "desc": "AI IDE for hardware development, support Arduino, MicroPython, ESP32, STM32, RP2040, Nrf5x...",
-      "stars": 3869,
+      "stars": 3868,
       "lang": "TypeScript",
       "topics": [
         "ai",
@@ -1334,7 +1334,7 @@
       "full_name": "tzapu/WiFiManager",
       "url": "https://github.com/tzapu/WiFiManager",
       "desc": "ESP8266 WiFi Connection manager with web captive portal",
-      "stars": 7300,
+      "stars": 7301,
       "lang": "C++",
       "topics": [
         "arduino",
@@ -1409,7 +1409,7 @@
       "full_name": "T-vK/ESP32-BLE-Keyboard",
       "url": "https://github.com/T-vK/ESP32-BLE-Keyboard",
       "desc": "Bluetooth LE Keyboard library for the ESP32 (Arduino IDE compatible)",
-      "stars": 3194,
+      "stars": 3195,
       "lang": "C++",
       "topics": [
         "arduino",
@@ -1466,7 +1466,7 @@
       "full_name": "vshymanskyy/TinyGSM",
       "url": "https://github.com/vshymanskyy/TinyGSM",
       "desc": "A small Arduino library for GSM modules, that just works",
-      "stars": 2227,
+      "stars": 2228,
       "lang": "C++",
       "topics": [
         "a6",
@@ -1712,7 +1712,7 @@
       "full_name": "ruvnet/RuView",
       "url": "https://github.com/ruvnet/RuView",
       "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "stars": 102511,
+      "stars": 102512,
       "lang": "Rust",
       "topics": [
         "awesome",
@@ -3487,7 +3487,7 @@
       "full_name": "ayushsharma82/ElegantOTA",
       "url": "https://github.com/ayushsharma82/ElegantOTA",
       "desc": "The original over-the-air update library for wireless microcontrollers (since 2019).",
-      "stars": 1025,
+      "stars": 1026,
       "lang": "C++",
       "topics": [
         "air",
@@ -5005,7 +5005,7 @@
       "full_name": "kritishmohapatra/100_Days_100_IoT_Projects",
       "url": "https://github.com/kritishmohapatra/100_Days_100_IoT_Projects",
       "desc": "A 100-day challenge exploring IoT and embedded systems using ESP32, ESP8266, and Raspberry Pi Pico with MicroPython. Each day covers a new sensor or module with complete code, circuit diagram, and explanation.",
-      "stars": 1559,
+      "stars": 1560,
       "lang": "Python",
       "topics": [
         "100daysofcode",
