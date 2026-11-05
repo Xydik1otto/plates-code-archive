@@ -52,7 +52,7 @@ def main():
         if not repos:
             continue
         en, _ = CAT_TITLES[cat]
-        a(f"- [{en}](#{anchor(en)}) — {len(repos)} repos")
+        a(f'- [`{en}`](#cat-{cat}) — {len(repos)} repos')
     a("")
     a("---")
     a("")
@@ -62,6 +62,7 @@ def main():
         if not repos:
             continue
         en, uk = CAT_TITLES[cat]
+        a(f'<a id="cat-{cat}"></a>')
         a(f"## {en}")
         a(f"**{uk}**")
         a("")

@@ -1,0 +1,5317 @@
+{
+  "frameworks-cores": [
+    {
+      "full_name": "micropython/micropython",
+      "url": "https://github.com/micropython/micropython",
+      "desc": "MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems",
+      "stars": 22180,
+      "lang": "C",
+      "topics": [
+        "embedded",
+        "microcontroller",
+        "micropython",
+        "python"
+      ],
+      "pushed": "2026-11-03",
+      "archived": false,
+      "platform": "Cross-platform",
+      "matched_query": "micropython"
+    },
+    {
+      "full_name": "espressif/esp-idf",
+      "url": "https://github.com/espressif/esp-idf",
+      "desc": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
+      "stars": 19435,
+      "lang": "C",
+      "topics": [],
+      "pushed": "2026-11-05",
+      "archived": false,
+      "platform": "ESP32/ESP8266",
+      "matched_query": "esp-idf"
+    },
+    {
+      "full_name": "tinygo-org/tinygo",
+      "url": "https://github.com/tinygo-org/tinygo",
+      "desc": "Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.",
+      "stars": 17898,
+      "lang": "Go",
+      "topics": [
+        "adafruit",
+        "arduino",
+        "arm",
+        "avr",
+        "esp32",
+        "gpio"
+      ],
+      "pushed": "2026-11-05",
+      "archived": false,
+      "platform": "Cross-platform",
+      "matched_query": "tinygo"
+    },
+    {
+      "full_name": "espressif/arduino-esp32",
+      "url": "https://github.com/espressif/arduino-esp32",
+      "desc": "Arduino core for the ESP32 family of SoCs",
+      "stars": 17676,
+      "lang": "C++",
+      "topics": [
+        "arduino",
+        "esp-idf",
+        "esp32"
+      ],
+      "pushed": "2026-11-05",
+      "archived": false,
+      "platform": "ESP32/ESP8266",
+      "matched_query": "esp-idf"
+    },
+    {
+      "full_name": "rwaldron/johnny-five",
+      "url": "https://github.com/rwaldron/johnny-five",
+      "desc": "JavaScript Robotics and IoT programming framework, developed at Bocoup.",
+      "stars": 13409,
+      "lang": "JavaScript",
+      "topics": [
+        "1-wire",
+        "adc",
+        "arduino",
+        "beaglebone-black",
+        "bluetooth",
+        "chip"
+      ],
+      "pushed": "2023-10-24",
+      "archived": false,
+      "platform": "Arduino",
+      "matched_query": "arduino+framework"
+    },
+    {
+      "full_name": "esphome/esphome",
+      "url": "https://github.com/esphome/esphome",
+      "desc": "ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.",
+      "stars": 12026,
+      "lang": "C++",
+      "topics": [
+        "esp32",
+        "esp8266",
+        "hacktoberfest",
+        "home-assistant",
+        "home-automation",
+        "iot"
+      ],
+      "pushed": "2026-11-05",
+      "archived": false,
+      "platform": "Cross-platform",
+      "matched_query": "platformio"
+    },
+    {
+      "full_name": "platformio/platformio-core",
+      "url": "https://github.com/platformio/platformio-core",
+      "desc": "Your Gateway to Embedded Software Development Excellence :alien:",
+      "stars": 9583,
+      "lang": "Python",
+      "topics": [
+        "arduino",
+        "arm",
+        "avr",
+        "build-system",
+        "cmsis",
+        "debugging"
+      ],
+      "pushed": "2026-10-16",
+      "archived": false,
+      "platform": "Cross-platform",
+      "matched_query": "platformio"
+    },
+    {
+      "full_name": "hybridgroup/gobot",
+      "url": "https://github.com/hybridgroup/gobot",
+      "desc": "Golang framework for robotics, drones, and the Internet of Things (IoT)",
+      "stars": 9492,
+      "lang": "Go",
+      "topics": [
+        "arduino",
+        "beaglebone",
+        "beaglebone-black",
+        "bluetooth",
+        "bluetooth-le",
+        "drone"
+      ],
+      "pushed": "2026-01-07",
+      "archived": false,
+      "platform": "Arduino",
+      "matched_query": "arduino+framework"
+    },
+    {
+      "full_name": "blinker-iot/blinker-esp-idf",
+      "url": "https://github.com/blinker-iot/blinker-esp-idf",
+      "desc": "An IoT Solution,Blinker library for embedded hardware. Works with ESP8266, ESP32 (idf)",
+      "stars": 4289,
+      "lang": "C",
+      "topics": [],
+      "pushed": "2025-03-14",
+      "archived": false,
+      "platform": "ESP32/ESP8266",
+      "matched_query": "esp-idf"
+    },
+    {
+      "full_name": "hybridgroup/cylon",
+      "url": "https://github.com/hybridgroup/cylon",
+      "desc": "JavaScript framework for robotics, drones, and the Internet of Things (IoT)",
+      "stars": 4208,
+      "lang": "JavaScript",
+      "topics": [
+        "arduino",
+        "beaglebone-black",
+        "bluetooth-low-energy",
+        "chip",
+        "drones",
+        "gpio"
+      ],
+      "pushed": "2020-10-02",
+      "archived": false,
+      "platform": "Arduino",
+      "matched_query": "arduino+framework"
+    },
+    {
+      "full_name": "ailyProject/aily-blockly",
+      "url": "https://github.com/ailyProject/aily-blockly",
+      "desc": "AI IDE for hardware development, support Arduino, MicroPython, ESP32, STM32, RP2040, Nrf5x...",
+      "stars": 3869,
+      "lang": "TypeScript",
+      "topics": [
+        "ai",
+        "arduino",
+        "blockly",
+        "ide",
+        "iot"
+      ],
+      "pushed": "2026-11-05",
+      "archived": false,
+      "platform": "Cross-platform",
+      "matched_query": "micropython"
+    },
+    {
+      "full_name": "crankyoldgit/IRremoteESP8266",
+      "url": "https://github.com/crankyoldgit/IRremoteESP8266",
+      "desc": "Infrared remote library for ESP8266/ESP32: send and receive infrared signals with multiple protocols. Based on: https://github.com/shirriff/Arduino-IRremote/",
+      "stars": 3662,
+      "lang": "C++",
+      "topics": [
+        "940nm",
+        "airconditioners",
+        "arduino",
+        "arduino-ide",
+        "arduino-library",
+        "communication"
+      ],
+      "pushed": "2026-08-23",
+      "archived": false,
+      "platform": "Cross-platform",
+      "matched_query": "platformio"
+    },
+    {
+      "full_name": "davidmonterocrespo24/velxio",
+      "url": "https://github.com/davidmonterocrespo24/velxio",
+      "desc": "Emulate Arduino, ESP32 & Raspberry Pi. in your browser. Write code, compile, and run on 19 real boards — Arduino Uno, ESP32, ESP32-C3, Raspberry Pi Pico, Raspberry Pi 3, and more. No hardware, no cloud, no limits.. Disco",
+      "stars": 3617,
+      "lang": "TypeScript",
+      "topics": [
+        "arduino",
+        "esp32",
+        "simulation",
+        "velxio",
+        "wokwi"
+      ],
+      "pushed": "2026-11-05",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "esp32+emulator"
+    },
+    {
+      "full_name": "espressif/ESP8266_RTOS_SDK",
+      "url": "https://github.com/espressif/ESP8266_RTOS_SDK",
+      "desc": "Latest ESP8266 SDK based on FreeRTOS, esp-idf style.",
+      "stars": 3585,
+      "lang": "C",
+      "topics": [],
+      "pushed": "2026-07-08",
+      "archived": false,
+      "platform": "ESP32/ESP8266",
+      "matched_query": "esp-idf"
+    },
+    {
+      "full_name": "M-Abozaid/esp32-c3-adblock",
+      "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
+      "desc": "Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit FNV-1a hashes in flash, binary-searched. UDP DNS sinkhole + web dashboard. https://youtube.com/shorts/RaxszOUMi8E?feature=share",
+      "stars": 3512,
+      "lang": "C++",
+      "topics": [
+        "adblocker",
+        "arduino",
+        "dns",
+        "dns-sinkhole",
+        "esp32",
+        "esp32-c3"
+      ],
+      "pushed": "2026-10-06",
+      "archived": false,
+      "platform": "Cross-platform",
+      "matched_query": "platformio"
+    },
+    {
+      "full_name": "HeyWillow/willow",
+      "url": "https://github.com/HeyWillow/willow",
+      "desc": "Open source, local, and self-hosted Amazon Echo/Google Home competitive Voice Assistant alternative",
+      "stars": 3132,
+      "lang": "C",
+      "topics": [
+        "alexa",
+        "deep-learning",
+        "echo",
+        "esp-adf",
+        "esp-idf",
+        "esp32"
+      ],
+      "pushed": "2026-11-01",
+      "archived": false,
+      "platform": "ESP32/ESP8266",
+      "matched_query": "esp-idf"
+    },
+    {
+      "full_name": "RavenSystem/esp-homekit-devices",
+      "url": "https://github.com/RavenSystem/esp-homekit-devices",
+      "desc": "Advanced firmware to add native Apple HomeKit and custom configurations, compatible with any SoC based on ESP32, ESP32-S, ESP32-C and ESP8266 series. (Shelly, Sonoff, Electrodragon, Tuya...)",
+      "stars": 3015,
+      "lang": "C",
+      "topics": [
+        "apple",
+        "electrodragon",
+        "esp-idf",
+        "esp32",
+        "esp8266",
+        "firmware"
+      ],
+      "pushed": "2026-09-18",
+      "archived": false,
+      "platform": "ESP32/ESP8266",
+      "matched_query": "esp-idf"
+    },
+    {
+      "full_name": "micropython/micropython-lib",
+      "url": "https://github.com/micropython/micropython-lib",
+      "desc": "Core Python libraries ported to MicroPython",
+      "stars": 2867,
+      "lang": "Python",
+      "topics": [
+        "micropython"
+      ],
+      "pushed": "2026-10-28",
+      "archived": false,
+      "platform": "Cross-platform",
+      "matched_query": "micropython"
+    },
+    {
+      "full_name": "agucova/awesome-esp",
+      "url": "https://github.com/agucova/awesome-esp",
+      "desc": "📶 A curated list of awesome ESP8266/32 projects and code",
+      "stars": 2793,
+      "lang": null,
+      "topics": [
+        "arduino",
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "esp",
+        "esp32"
+      ],
+      "pushed": "2026-05-09",
+      "archived": false,
+      "platform": "Cross-platform",
+      "matched_query": "micropython"
+    },
+    {
+      "full_name": "martin-ger/esp32_nat_router",
+      "url": "https://github.com/martin-ger/esp32_nat_router",
+      "desc": "An AI-enabled NAT Router/Firewall for the ESP32",
+      "stars": 2257,
+      "lang": "C",
+      "topics": [
+        "dhcp-server",
+        "esp-idf",
+        "esp32",
+        "firewall",
+        "home-assistant-integration",
+        "mcp-server"
+      ],
+      "pushed": "2026-10-21",
+      "archived": false,
+      "platform": "ESP32/ESP8266",
+      "matched_query": "esp-idf"
+    },
+    {
+      "full_name": "tbnobody/OpenDTU",
+      "url": "https://github.com/tbnobody/OpenDTU",
+      "desc": "Software for ESP32 to talk to Hoymiles/TSUN/Solenso Inverters",
+      "stars": 2206,
+      "lang": "C++",
+      "topics": [
+        "balkonkraftwerk",
+        "esp32",
+        "hoymiles",
+        "mqtt",
+        "platformio",
+        "solar"
+      ],
+      "pushed": "2026-11-02",
+      "archived": false,
+      "platform": "Cross-platform",
+      "matched_query": "platformio"
+    }
+  ],
+  "displays-ui": [
+    {
+      "full_name": "lvgl/lvgl",
+      "url": "https://github.com/lvgl/lvgl",
+      "desc": "LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.",
+      "stars": 25093,
+      "lang": "C",
+      "topics": [
+        "arduino",
+        "c",
+        "cpp",
+        "display",
+        "e-ink-display",
+        "embedded-ui"
+      ],
+      "pushed": "2026-11-03",
+      "archived": false,
+      "platform": "Cross-platform",
+      "matched_query": "topic:lvgl"
+    },
+    {
+      "full_name": "FASTSHIFT/X-TRACK",
+      "url": "https://github.com/FASTSHIFT/X-TRACK",
+      "desc": "A GPS bicycle speedometer that supports offline maps and track recording ",
+      "stars": 6322,
+      "lang": "C",
+      "topics": [
+        "bicycle",
+        "gps",
+        "gps-tracking",
+        "gpx",
+        "lvgl",
+        "mcu"
+      ],
+      "pushed": "2025-11-08",
+      "archived": false,
+      "platform": "Cross-platform",
+      "matched_query": "topic:lvgl"
+    },
+    {
+      "full_name": "Bodmer/TFT_eSPI",
+      "url": "https://github.com/Bodmer/TFT_eSPI",
+      "desc": "Arduino and PlatformIO IDE compatible TFT library optimised for the Raspberry Pi Pico (RP2040), STM32, ESP8266 and ESP32 that supports different driver chips",
+      "stars": 4968,
+      "lang": "C",
+      "topics": [
+        "arduino",
+        "arduino-library",
+        "esp32",
+        "esp8266",
+        "raspberry-pico",
+        "rp2040"
+      ],
+      "pushed": "2026-04-03",
+      "archived": false,
+      "platform": "Cross-platform",
+      "matched_query": "platformio"
+    },
+    {
+      "full_name": "ZSWatch/ZSWatch",
+      "url": "https://github.com/ZSWatch/ZSWatch",
+      "desc": "ZSWatch - the Open Source Zephyr™ based Smartwatch, including both HW and FW.",
+      "stars": 3431,
+      "lang": "C",
+      "topics": [
+        "angle-of-arrival",
+        "ble",
+        "bluetooth",
+        "display",
+        "gc9a01a",
+        "lvgl"
+      ],
+      "pushed": "2026-11-05",
+      "archived": false,
+      "platform": "Cross-platform",
+      "matched_query": "topic:lvgl"
+    },
+    {
+      "full_name": "No-Chicken/OV-Watch",
+      "url": "https://github.com/No-Chicken/OV-Watch",
+      "desc": "A powerful Smart Watch based on STM32, FreeRTOS, LVGL.",
+      "stars": 2584,
+      "lang": "C",
+      "topics": [
+        "freertos",
+        "lvgl",
+        "smartwatch",
+        "stm32"
+      ],
+      "pushed": "2026-05-26",
+      "archived": false,
+      "platform": "Cross-platform",
+      "matched_query": "topic:lvgl"
+    },
+    {
+      "full_name": "0015/ThatProject",
+      "url": "https://github.com/0015/ThatProject",
+      "desc": "*That Project's project repository",
+      "stars": 2483,
+      "lang": "C",
+      "topics": [
+        "camera",
+        "embedded-project",
+        "esp32",
+        "esp32-cam",
+        "esp8266",
+        "espressif"
+      ],
+      "pushed": "2024-07-10",
+      "archived": false,
+      "platform": "Cross-platform",
+      "matched_query": "topic:lvgl"
+    },
+    {
+      "full_name": "ThingPulse/esp8266-oled-ssd1306",
+      "url": "https://github.com/ThingPulse/esp8266-oled-ssd1306",
+      "desc": "Driver for the SSD1306 and SH1106 based 128x64, 128x32, 64x48 pixel OLED display running on ESP8266/ESP32",
+      "stars": 2184,
+      "lang": "C++",
+      "topics": [
+        "arduino",
+        "driver",
+        "esp32",
+        "esp8266",
+        "i2c",
+        "mbed-os"
+      ],
+      "pushed": "2026-10-31",
+      "archived": false,
+      "platform": "Arduino",
+      "matched_query": "oled+ssd1306+arduino"
+    },
+    {
+      "full_name": "adafruit/Adafruit_SSD1306",
+      "url": "https://github.com/adafruit/Adafruit_SSD1306",
+      "desc": "Arduino library for SSD1306 monochrome 128x64 and 128x32 OLEDs",
+      "stars": 2123,
+      "lang": "C++",
+      "topics": [
+        "arduino-library"
+      ],
+      "pushed": "2026-05-29",
+      "archived": false,
+      "platform": "Arduino",
+      "matched_query": "oled+ssd1306+arduino"
+    },
+    {
+      "full_name": "eez-open/studio",
+      "url": "https://github.com/eez-open/studio",
+      "desc": "Cross-platform low-code GUI and automation",
+      "stars": 1873,
+      "lang": "JavaScript",
+      "topics": [
+        "eez-studio",
+        "flow-based-programming",
+        "instrument-extensions",
+        "lvgl",
+        "scpi-commands",
+        "scpi-instrument"
+      ],
+      "pushed": "2026-11-04",
+      "archived": false,
+      "platform": "Cross-platform",
+      "matched_query": "topic:lvgl"
+    },
+    {
+      "full_name": "juj/fbcp-ili9341",
+      "url": "https://github.com/juj/fbcp-ili9341",
+      "desc": "A blazing fast display driver for SPI-based LCD displays for Raspberry Pi A, B, 2, 3, 4 and Zero",
+      "stars": 1818,
+      "lang": "C++",
+      "topics": [],
+      "pushed": "2024-02-05",
+      "archived": false,
+      "platform": "Cross-platform",
+      "matched_query": "ili9341"
+    },
+    {
+      "full_name": "OMOTE-Community/OMOTE-Firmware",
+      "url": "https://github.com/OMOTE-Community/OMOTE-Firmware",
+      "desc": "Open Source Remote - Firmware",
+      "stars": 1806,
+      "lang": "C++",
+      "topics": [
+        "ble",
+        "esp32",
+        "infrared",
+        "lvgl",
+        "remote",
+        "wifi"
+      ],
+      "pushed": "2026-10-10",
+      "archived": false,
+      "platform": "Cross-platform",
+      "matched_query": "topic:lvgl"
+    },
+    {
+      "full_name": "Fr4nkFletcher/ESP32-Marauder-Cheap-Yellow-Display",
+      "url": "https://github.com/Fr4nkFletcher/ESP32-Marauder-Cheap-Yellow-Display",
+      "desc": "ESP32Marauder Cheap Yellow Display",
+      "stars": 1796,
+      "lang": "C",
+      "topics": [
+        "cheap-yellow-display",
+        "cst820",
+        "cyd",
+        "esp32",
+        "esp32-1732s019",
+        "esp32-2432s024c"
+      ],
+      "pushed": "2025-11-15",
+      "archived": false,
+      "platform": "Cross-platform",
+      "matched_query": "ili9341"
+    },
+    {
+      "full_name": "fdivitto/FabGL",
+      "url": "https://github.com/fdivitto/FabGL",
+      "desc": "ESP32 Display Controller (VGA, PAL/NTSC Color Composite, SSD1306, ST7789, ILI9341), PS/2 Mouse and Keyboard Controller, Graphics Library, Sound Engine, Game Engine and ANSI/VT Terminal",
+      "stars": 1726,
+      "lang": "C++",
+      "topics": [
+        "audio",
+        "audio-engine",
+        "composite",
+        "emulator",
+        "esp32",
+        "fabgl"
+      ],
+      "pushed": "2025-02-27",
+      "archived": false,
+      "platform": "Cross-platform",
+      "matched_query": "ili9341"
+    },
+    {
+      "full_name": "ttrftech/NanoVNA",
+      "url": "https://github.com/ttrftech/NanoVNA",
+      "desc": "Very Tiny Palmtop Vector Network Analyzer",
+      "stars": 1435,
+      "lang": "C",
+      "topics": [
+        "chibios",
+        "cortex-m0",
+        "firmware",
+        "i2s",
+        "ili9341",
+        "instruments"
+      ],
+      "pushed": "2020-11-11",
+      "archived": false,
+      "platform": "Cross-platform",
+      "matched_query": "ili9341"
+    },
+    {
+      "full_name": "ImpulseAdventure/GUIslice",
+      "url": "https://github.com/ImpulseAdventure/GUIslice",
+      "desc": "GUIslice drag & drop embedded GUI in C for touchscreen TFT on Arduino, Raspberry Pi, ARM, ESP8266 / ESP32 / M5stack using Adafruit-GFX / TFT_eSPI / UTFT / SDL",
+      "stars": 1372,
+      "lang": "C",
+      "topics": [
+        "adafruit-gfx",
+        "arduino",
+        "arduino-library",
+        "c",
+        "embedded",
+        "esp32"
+      ],
+      "pushed": "2026-07-14",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "touchscreen+esp32"
+    },
+    {
+      "full_name": "lvgl/lv_esp_idf",
+      "url": "https://github.com/lvgl/lv_esp_idf",
+      "desc": "LVGL ported to ESP32 including various display and touchpad drivers",
+      "stars": 1314,
+      "lang": "C",
+      "topics": [
+        "esp-idf",
+        "esp32",
+        "graphics",
+        "lvgl",
+        "ui"
+      ],
+      "pushed": "2026-10-22",
+      "archived": false,
+      "platform": "Cross-platform",
+      "matched_query": "topic:lvgl"
+    },
+    {
+      "full_name": "koosoli/ESPHomeDesigner",
+      "url": "https://github.com/koosoli/ESPHomeDesigner",
+      "desc": "A visual drag-and-drop editor for ESPHome displays (E-Ink, OLED, LCD, Touch), running as a Home Assistant integration or a standalone web app.",
+      "stars": 1150,
+      "lang": "JavaScript",
+      "topics": [
+        "custom-component",
+        "dashboard",
+        "editor",
+        "eink",
+        "esp32",
+        "esphome"
+      ],
+      "pushed": "2026-10-17",
+      "archived": false,
+      "platform": "Cross-platform",
+      "matched_query": "topic:lvgl"
+    },
+    {
+      "full_name": "MaxGramser/homeassistant_espscreen",
+      "url": "https://github.com/MaxGramser/homeassistant_espscreen",
+      "desc": "Tessera: beautiful, easy touch screens for Home Assistant on affordable ESP32 panels, 2.8 to 10.1 inch (CYD, Guition, Waveshare). Drag-and-drop editor, no YAML, no MQTT.",
+      "stars": 1033,
+      "lang": "Python",
+      "topics": [
+        "cyd",
+        "esp32",
+        "esp32-2432s028r",
+        "esp32-p4",
+        "esp32-s3",
+        "esphome"
+      ],
+      "pushed": "2026-11-03",
+      "archived": false,
+      "platform": "Cross-platform",
+      "matched_query": "topic:lvgl"
+    },
+    {
+      "full_name": "yashmulgaonkar/halo",
+      "url": "https://github.com/yashmulgaonkar/halo",
+      "desc": "An open-source, ESP32-powered air quality monitor with an RGB ring, touchscreen, and comprehensive environmental sensors. Firmware installer: https://yashmulgaonkar.github.io/halo/",
+      "stars": 958,
+      "lang": "C++",
+      "topics": [],
+      "pushed": "2026-11-04",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "touchscreen+esp32"
+    },
+    {
+      "full_name": "loboris/MicroPython_ESP32_psRAM_LoBo",
+      "url": "https://github.com/loboris/MicroPython_ESP32_psRAM_LoBo",
+      "desc": "MicroPython for ESP32 with psRAM support",
+      "stars": 874,
+      "lang": "C",
+      "topics": [
+        "display",
+        "esp-idf",
+        "esp32",
+        "gsm",
+        "libcurl",
+        "micropython"
+      ],
+      "pushed": "2023-10-19",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "tft+esp32+display"
+    },
+    {
+      "full_name": "lexus2k/ssd1306",
+      "url": "https://github.com/lexus2k/ssd1306",
+      "desc": "Driver for SSD1306, SSD1331, SSD1351, IL9163, ILI9341, ST7735, PCD8544, Nokia 5110 displays running on Arduino/ESP32/Linux (Rasperry) platforms",
+      "stars": 823,
+      "lang": "C",
+      "topics": [
+        "arduino",
+        "arduino-library",
+        "arkanoid",
+        "atmega328p",
+        "attiny",
+        "attiny85"
+      ],
+      "pushed": "2026-04-04",
+      "archived": false,
+      "platform": "Cross-platform",
+      "matched_query": "ili9341"
+    },
+    {
+      "full_name": "russhughes/st7789_mpy",
+      "url": "https://github.com/russhughes/st7789_mpy",
+      "desc": "Fast MicroPython driver for  ST7789 display module written in C",
+      "stars": 730,
+      "lang": "Python",
+      "topics": [
+        "bitmap-font",
+        "driver",
+        "esp32",
+        "firmware",
+        "ili9341",
+        "ili9342"
+      ],
+      "pushed": "2026-10-25",
+      "archived": false,
+      "platform": "Cross-platform",
+      "matched_query": "ili9341"
+    },
+    {
+      "full_name": "DustinWatts/FreeTouchDeck",
+      "url": "https://github.com/DustinWatts/FreeTouchDeck",
+      "desc": "For interfacing with Windows/macOS/Linux using an ESP32, a touchscreen and BLE.",
+      "stars": 717,
+      "lang": "C",
+      "topics": [],
+      "pushed": "2024-05-22",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "touchscreen+esp32"
+    },
+    {
+      "full_name": "rzeldent/esp32-smartdisplay",
+      "url": "https://github.com/rzeldent/esp32-smartdisplay",
+      "desc": "PlatformIO library LVGL Drivers for Sunton Smart display boards (CYD Cheap Yellow Display). This library supports these boards without any effort. ESP32-2432S024N/R/C, ESP32-2432S028R/C, ESP32-3248S035R/C, ESP32_8048S070",
+      "stars": 705,
+      "lang": "C",
+      "topics": [
+        "arduino",
+        "cyd",
+        "esp32",
+        "esp32-2424s12",
+        "esp32-2432s022",
+        "esp32-2432s028"
+      ],
+      "pushed": "2026-11-03",
+      "archived": false,
+      "platform": "Cross-platform",
+      "matched_query": "ili9341"
+    },
+    {
+      "full_name": "RobertoBenjami/stm32_graphics_display_drivers",
+      "url": "https://github.com/RobertoBenjami/stm32_graphics_display_drivers",
+      "desc": "STM32 LCD drivers (currently: spi(dma), gpio, fsmc(dma), st7735, st7783, ili9325, ili9328, ili9341, ili9486, ili9488, hx8347g)",
+      "stars": 703,
+      "lang": "C",
+      "topics": [
+        "arm",
+        "c",
+        "cubemx",
+        "gcc-arm",
+        "hx8347g",
+        "ili9325"
+      ],
+      "pushed": "2022-12-29",
+      "archived": false,
+      "platform": "Cross-platform",
+      "matched_query": "ili9341"
+    },
+    {
+      "full_name": "h-RAT/Willy_Firmware_V2_ESP32_Flipper_Zero_Alternative",
+      "url": "https://github.com/h-RAT/Willy_Firmware_V2_ESP32_Flipper_Zero_Alternative",
+      "desc": "Willy Firmware is an alternative to Flipper Zero. | Board: ESP32 T-Display-S3 - Module: CC1101 - Display: Touchscreen - Compatible Flipper Zero file.",
+      "stars": 678,
+      "lang": "HTML",
+      "topics": [
+        "cc1101",
+        "esp32",
+        "flipper-zero",
+        "flipperzero",
+        "hack-rf",
+        "hack-rf-sdr"
+      ],
+      "pushed": "2026-08-28",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "touchscreen+esp32"
+    },
+    {
+      "full_name": "bitbank2/Thermal_Printer",
+      "url": "https://github.com/bitbank2/Thermal_Printer",
+      "desc": "Arduino library to draw text and graphics on BLE thermal printers",
+      "stars": 526,
+      "lang": "C",
+      "topics": [],
+      "pushed": "2025-06-15",
+      "archived": false,
+      "platform": "Arduino",
+      "matched_query": "arduino+graphics+library"
+    }
+  ],
+  "sensors": [
+    {
+      "full_name": "s60sc/ESP32-CAM_MJPEG2SD",
+      "url": "https://github.com/s60sc/ESP32-CAM_MJPEG2SD",
+      "desc": "ESP32 Camera motion capture application to record JPEGs to SD card as AVI files and stream to browser as MJPEG. If a microphone is installed then a WAV file is also created. Files can be uploaded via FTP or downloaded to",
+      "stars": 1780,
+      "lang": "C++",
+      "topics": [
+        "arduino-esp32",
+        "avi",
+        "camera",
+        "esp32",
+        "esp32-cam",
+        "esp32s3"
+      ],
+      "pushed": "2026-11-03",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "camera+esp32-cam"
+    },
+    {
+      "full_name": "easytarget/esp32-cam-webserver",
+      "url": "https://github.com/easytarget/esp32-cam-webserver",
+      "desc": "Expanded version of the Espressif ESP webcam",
+      "stars": 1544,
+      "lang": "C",
+      "topics": [
+        "ai-thinker",
+        "ai-thinker-boards",
+        "camera",
+        "esp32-cam",
+        "espressif",
+        "face-recognition"
+      ],
+      "pushed": "2024-12-06",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "camera+esp32-cam"
+    },
+    {
+      "full_name": "devbis/z03mmc",
+      "url": "https://github.com/devbis/z03mmc",
+      "desc": "Xiaomi LYWSD03MMC Zigbee Firmware",
+      "stars": 1476,
+      "lang": "C",
+      "topics": [
+        "humidity-sensor",
+        "lcd-display",
+        "lywsd03mmc",
+        "ota",
+        "temperature-sensor",
+        "zigbee"
+      ],
+      "pushed": "2026-01-07",
+      "archived": false,
+      "platform": "Cross-platform",
+      "matched_query": "topic:temperature-sensor"
+    },
+    {
+      "full_name": "mikalhart/TinyGPSPlus",
+      "url": "https://github.com/mikalhart/TinyGPSPlus",
+      "desc": "A new, customizable Arduino NMEA parsing library",
+      "stars": 1283,
+      "lang": "C++",
+      "topics": [],
+      "pushed": "2024-05-20",
+      "archived": false,
+      "platform": "Arduino",
+      "matched_query": "gps+arduino+library"
+    },
+    {
+      "full_name": "21cncstudio/project_aura",
+      "url": "https://github.com/21cncstudio/project_aura",
+      "desc": "ESP32‑S3 air‑quality station with LVGL UI, MQTT, Home Assistant",
+      "stars": 784,
+      "lang": "C",
+      "topics": [
+        "3d-printing",
+        "adafruit",
+        "air-quality",
+        "arduino",
+        "diy",
+        "esp32"
+      ],
+      "pushed": "2026-11-04",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "topic:sensors+topic:esp32"
+    },
+    {
+      "full_name": "eried/flipperzero-mayhem",
+      "url": "https://github.com/eried/flipperzero-mayhem",
+      "desc": "Perfect companion for your Flipper Zero. ESP32 with WiFi, BT/BLE, micro-SD, camera+PSRAM, flashlight and extras: NRF24/CC1101, 3V/5V sensors",
+      "stars": 735,
+      "lang": "C++",
+      "topics": [
+        "esp32",
+        "esp32-arduino",
+        "esp32-cam",
+        "flipper-zero",
+        "flipperzero",
+        "marauders-esp"
+      ],
+      "pushed": "2026-10-28",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "camera+esp32-cam"
+    },
+    {
+      "full_name": "yoursunny/esp32cam",
+      "url": "https://github.com/yoursunny/esp32cam",
+      "desc": "OV2640 camera on ESP32-CAM, Arduino library",
+      "stars": 689,
+      "lang": "C++",
+      "topics": [
+        "arduino-library",
+        "esp32",
+        "hacktoberfest",
+        "ov2640"
+      ],
+      "pushed": "2026-07-26",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "camera+esp32-cam"
+    },
+    {
+      "full_name": "timmbogner/Farm-Data-Relay-System",
+      "url": "https://github.com/timmbogner/Farm-Data-Relay-System",
+      "desc": "A system that uses ESP-NOW, LoRa, and other protocols to transport sensor data in remote areas without relying on WiFi.",
+      "stars": 629,
+      "lang": "C",
+      "topics": [
+        "agriculture",
+        "agritech",
+        "agtech",
+        "arduino",
+        "esp-now",
+        "esp32"
+      ],
+      "pushed": "2026-01-29",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "topic:sensors+topic:esp32"
+    },
+    {
+      "full_name": "lemariva/micropython-camera-driver",
+      "url": "https://github.com/lemariva/micropython-camera-driver",
+      "desc": "add camera support to MicroPython",
+      "stars": 567,
+      "lang": "C",
+      "topics": [
+        "esp32",
+        "esp32-cam",
+        "esp32-idf",
+        "m5camera",
+        "micropython"
+      ],
+      "pushed": "2023-10-22",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "camera+esp32-cam"
+    },
+    {
+      "full_name": "adafruit/Adafruit_GPS",
+      "url": "https://github.com/adafruit/Adafruit_GPS",
+      "desc": "An interrupt-based GPS Arduino library for no-parsing-required use",
+      "stars": 497,
+      "lang": "C++",
+      "topics": [
+        "arduino-library"
+      ],
+      "pushed": "2026-09-16",
+      "archived": false,
+      "platform": "Arduino",
+      "matched_query": "gps+arduino+library"
+    },
+    {
+      "full_name": "mikalhart/TinyGPS",
+      "url": "https://github.com/mikalhart/TinyGPS",
+      "desc": "A compact Arduino NMEA (GPS) parsing library",
+      "stars": 412,
+      "lang": "C++",
+      "topics": [],
+      "pushed": "2022-02-28",
+      "archived": false,
+      "platform": "Arduino",
+      "matched_query": "gps+arduino+library"
+    },
+    {
+      "full_name": "adafruit/Adafruit_BME280_Library",
+      "url": "https://github.com/adafruit/Adafruit_BME280_Library",
+      "desc": "Arduino Library for BME280 sensors",
+      "stars": 396,
+      "lang": "C++",
+      "topics": [
+        "arduino-library"
+      ],
+      "pushed": "2025-04-30",
+      "archived": false,
+      "platform": "Arduino",
+      "matched_query": "bme280+arduino"
+    },
+    {
+      "full_name": "Tech1k/helloesp",
+      "url": "https://github.com/Tech1k/helloesp",
+      "desc": "A public website hosted on an ESP32.",
+      "stars": 387,
+      "lang": "HTML",
+      "topics": [
+        "arduino",
+        "bme280",
+        "ccs811",
+        "cloudflare-workers",
+        "ds3231",
+        "esp32"
+      ],
+      "pushed": "2026-07-30",
+      "archived": false,
+      "platform": "Arduino",
+      "matched_query": "bme280+arduino"
+    },
+    {
+      "full_name": "hannseman/homebridge-mi-hygrothermograph",
+      "url": "https://github.com/hannseman/homebridge-mi-hygrothermograph",
+      "desc": "Homebridge plugin for the Xiaomi Mi Bluetooth Temperature and Humidity Sensor",
+      "stars": 272,
+      "lang": "JavaScript",
+      "topics": [
+        "bluetooth-low-energy",
+        "homebridge",
+        "homebridge-plugin",
+        "homekit",
+        "humidity-sensor",
+        "hygrothermograph"
+      ],
+      "pushed": "2025-01-20",
+      "archived": false,
+      "platform": "Cross-platform",
+      "matched_query": "topic:temperature-sensor"
+    },
+    {
+      "full_name": "finitespace/BME280",
+      "url": "https://github.com/finitespace/BME280",
+      "desc": "Provides an Arduino library for reading and interpreting Bosch BME280 data over I2C, SPI or Sw SPI.",
+      "stars": 249,
+      "lang": "C++",
+      "topics": [],
+      "pushed": "2022-05-27",
+      "archived": false,
+      "platform": "Arduino",
+      "matched_query": "bme280+arduino"
+    },
+    {
+      "full_name": "shariltumin/esp32-cam-micropython-2022",
+      "url": "https://github.com/shariltumin/esp32-cam-micropython-2022",
+      "desc": "MicroPython esp32-cam firmware with camera support compiled with esp-idf-4.4.0. Python script files for live streaming",
+      "stars": 245,
+      "lang": "Python",
+      "topics": [
+        "micropython-esp32cam"
+      ],
+      "pushed": "2024-01-21",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "camera+esp32-cam"
+    },
+    {
+      "full_name": "alanesq/CameraWifiMotion",
+      "url": "https://github.com/alanesq/CameraWifiMotion",
+      "desc": "Motion detecting security camera using a cheap ESP32-cam camera module",
+      "stars": 230,
+      "lang": "C++",
+      "topics": [
+        "cctv",
+        "esp32cam",
+        "motion"
+      ],
+      "pushed": "2026-06-12",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "camera+esp32-cam"
+    },
+    {
+      "full_name": "liourej/CodeDroneDIY",
+      "url": "https://github.com/liourej/CodeDroneDIY",
+      "desc": "The most simple, but working, quadricopter flight controller from scratch, using Arduino Uno/Nano.",
+      "stars": 227,
+      "lang": "C++",
+      "topics": [
+        "accelerometer",
+        "arduino",
+        "attitude",
+        "attitude-computation",
+        "control-loop",
+        "controller"
+      ],
+      "pushed": "2021-03-23",
+      "archived": false,
+      "platform": "Arduino",
+      "matched_query": "imu+mpu6050+arduino"
+    },
+    {
+      "full_name": "supergreenlab/SuperGreenOS",
+      "url": "https://github.com/supergreenlab/SuperGreenOS",
+      "desc": "🧠 SuperGreenOS home farming automation software for esp32, all in one package, and controllable from your smartphone, pc, mac, linux, toaster, plumbus, whatnot...",
+      "stars": 222,
+      "lang": "C",
+      "topics": [
+        "alerts",
+        "dashboard",
+        "esp32",
+        "farming",
+        "firmware",
+        "growbox"
+      ],
+      "pushed": "2024-06-05",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "topic:sensors+topic:esp32"
+    },
+    {
+      "full_name": "rzeldent/esp32cam-ready",
+      "url": "https://github.com/rzeldent/esp32cam-ready",
+      "desc": "Plug and Play firmware for the esp32cam. Connect with RTSP (for example VLC). Easy installation: Flash, provision and connect!",
+      "stars": 216,
+      "lang": "C++",
+      "topics": [
+        "camera",
+        "esp32",
+        "esp32-arduino",
+        "esp32-cam",
+        "ov2640",
+        "platformio"
+      ],
+      "pushed": "2026-08-28",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "camera+esp32-cam"
+    },
+    {
+      "full_name": "M64GitHub/WireClaw",
+      "url": "https://github.com/M64GitHub/WireClaw",
+      "desc": "ESP32 AI agent with persistent memory and offline rule engine - chat to configure, run locally 24/7. (Telegram / Serial / NATS).",
+      "stars": 213,
+      "lang": "C++",
+      "topics": [
+        "ai-agent",
+        "arduino",
+        "embedded",
+        "esp32",
+        "firmware",
+        "gpio"
+      ],
+      "pushed": "2026-02-23",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "topic:sensors+topic:esp32"
+    },
+    {
+      "full_name": "omersiar/RFID522-Door-Unlock",
+      "url": "https://github.com/omersiar/RFID522-Door-Unlock",
+      "desc": "Arduino RC522 RFID Access Control",
+      "stars": 208,
+      "lang": "Arduino",
+      "topics": [
+        "arduino",
+        "arduinorfid",
+        "eeprom",
+        "mfrc522",
+        "rc522",
+        "rfid"
+      ],
+      "pushed": "2017-06-07",
+      "archived": false,
+      "platform": "Arduino",
+      "matched_query": "rfid+rc522+arduino"
+    },
+    {
+      "full_name": "cpainchaud/RFLink32",
+      "url": "https://github.com/cpainchaud/RFLink32",
+      "desc": "RFLink for ESP, with MQTT client",
+      "stars": 197,
+      "lang": "C",
+      "topics": [
+        "diy",
+        "domoticz",
+        "esp32",
+        "esp8266",
+        "home-assistant",
+        "home-automation"
+      ],
+      "pushed": "2026-07-30",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "topic:sensors+topic:esp32"
+    },
+    {
+      "full_name": "dproldan/Esp32AutoCamera",
+      "url": "https://github.com/dproldan/Esp32AutoCamera",
+      "desc": "ESP32-CAM with an open wifi access point and a captive portal,  for fast deployment of a wireless camara.",
+      "stars": 194,
+      "lang": "C++",
+      "topics": [],
+      "pushed": "2020-11-14",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "camera+esp32-cam"
+    },
+    {
+      "full_name": "kevinmehall/rtlsdr-433m-sensor",
+      "url": "https://github.com/kevinmehall/rtlsdr-433m-sensor",
+      "desc": "Decoder for Oregon Scientific v1 protocol wireless temperature sensors with RTL-SDR and GNU Radio.",
+      "stars": 185,
+      "lang": "Python",
+      "topics": [
+        "gnuradio",
+        "rtl-sdr",
+        "software-defined-radio",
+        "temperature-sensor"
+      ],
+      "pushed": "2017-03-25",
+      "archived": false,
+      "platform": "Cross-platform",
+      "matched_query": "topic:temperature-sensor"
+    }
+  ],
+  "connectivity": [
+    {
+      "full_name": "justcallmekoko/ESP32Marauder",
+      "url": "https://github.com/justcallmekoko/ESP32Marauder",
+      "desc": "A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32",
+      "stars": 13008,
+      "lang": "C++",
+      "topics": [
+        "arduino",
+        "beacon",
+        "bluetooth",
+        "command-line",
+        "deauthentication",
+        "defensive"
+      ],
+      "pushed": "2026-10-29",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "topic:bluetooth+esp32"
+    },
+    {
+      "full_name": "EmenstaNougat/ESP32-BlueJammer",
+      "url": "https://github.com/EmenstaNougat/ESP32-BlueJammer",
+      "desc": "The ESP32-BlueJammer (Bluetooth jammer, BLE jammer, WiFi jammer, RC jammer) disrupts 2.4GHz communications. Using an ESP32 and nRF24 modules, it generates noise and unnecessary packets, causing interference between the d",
+      "stars": 8825,
+      "lang": null,
+      "topics": [
+        "bluetooth",
+        "bt",
+        "coding",
+        "cybersecurity",
+        "diy",
+        "electronics"
+      ],
+      "pushed": "2026-03-29",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "topic:bluetooth+esp32"
+    },
+    {
+      "full_name": "meshtastic/firmware",
+      "url": "https://github.com/meshtastic/firmware",
+      "desc": "The official firmware for Meshtastic, an open-source, off-grid mesh communication system.",
+      "stars": 8534,
+      "lang": "C++",
+      "topics": [
+        "esp32",
+        "gps",
+        "heltec",
+        "hiking",
+        "lora",
+        "mesh"
+      ],
+      "pushed": "2026-11-05",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "lora+esp32"
+    },
+    {
+      "full_name": "tzapu/WiFiManager",
+      "url": "https://github.com/tzapu/WiFiManager",
+      "desc": "ESP8266 WiFi Connection manager with web captive portal",
+      "stars": 7300,
+      "lang": "C++",
+      "topics": [
+        "arduino",
+        "captive",
+        "configuration-portal",
+        "esp8266",
+        "wifimanager"
+      ],
+      "pushed": "2026-02-25",
+      "archived": false,
+      "platform": "ESP8266",
+      "matched_query": "wifi+manager+esp8266"
+    },
+    {
+      "full_name": "geo-tp/ESP32-Bit-Pirate",
+      "url": "https://github.com/geo-tp/ESP32-Bit-Pirate",
+      "desc": "A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol ",
+      "stars": 6339,
+      "lang": "C++",
+      "topics": [
+        "arduino",
+        "bluetooth",
+        "can-bus",
+        "debugging",
+        "eeprom",
+        "esp32"
+      ],
+      "pushed": "2026-11-01",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "topic:bluetooth+esp32"
+    },
+    {
+      "full_name": "ExpressLRS/ExpressLRS",
+      "url": "https://github.com/ExpressLRS/ExpressLRS",
+      "desc": "High Performance Open Source Radio Control Link",
+      "stars": 5467,
+      "lang": "C",
+      "topics": [
+        "drone",
+        "esp32",
+        "esp8266",
+        "fpv",
+        "lora",
+        "lr1121"
+      ],
+      "pushed": "2026-10-31",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "lora+esp32"
+    },
+    {
+      "full_name": "cifertech/ESP32-DIV",
+      "url": "https://github.com/cifertech/ESP32-DIV",
+      "desc": "ESP32DIV is a multi-purpose wireless offensive and defensive toolkit powered by an ESP32",
+      "stars": 4290,
+      "lang": "C++",
+      "topics": [
+        "arduino",
+        "attack",
+        "bluetooth",
+        "deauthentication-attack",
+        "deauther",
+        "defense"
+      ],
+      "pushed": "2026-09-22",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "topic:bluetooth+esp32"
+    },
+    {
+      "full_name": "T-vK/ESP32-BLE-Keyboard",
+      "url": "https://github.com/T-vK/ESP32-BLE-Keyboard",
+      "desc": "Bluetooth LE Keyboard library for the ESP32 (Arduino IDE compatible)",
+      "stars": 3194,
+      "lang": "C++",
+      "topics": [
+        "arduino",
+        "arduino-library",
+        "ble",
+        "bluetooth",
+        "bluetooth-le",
+        "esp32"
+      ],
+      "pushed": "2024-08-07",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "topic:bluetooth+esp32"
+    },
+    {
+      "full_name": "gioblu/PJON",
+      "url": "https://github.com/gioblu/PJON",
+      "desc": "PJON (Padded Jittering Operative Network) is an experimental, arduino-compatible, multi-master, multi-media network protocol.",
+      "stars": 2836,
+      "lang": "C++",
+      "topics": [
+        "arduino",
+        "attiny",
+        "esp32",
+        "esp8266",
+        "home-automation",
+        "iot"
+      ],
+      "pushed": "2025-11-21",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "lora+esp32"
+    },
+    {
+      "full_name": "nRF24/RF24",
+      "url": "https://github.com/nRF24/RF24",
+      "desc": "OSI Layer 2 driver for nRF24L01 on Arduino & Raspberry Pi/Linux Devices",
+      "stars": 2481,
+      "lang": "C++",
+      "topics": [
+        "arduino",
+        "arduino-library",
+        "c-plus-plus",
+        "hacktoberfest",
+        "nrf24l01",
+        "rf24"
+      ],
+      "pushed": "2026-11-01",
+      "archived": false,
+      "platform": "Arduino",
+      "matched_query": "nrf24l01+arduino"
+    },
+    {
+      "full_name": "vshymanskyy/TinyGSM",
+      "url": "https://github.com/vshymanskyy/TinyGSM",
+      "desc": "A small Arduino library for GSM modules, that just works",
+      "stars": 2227,
+      "lang": "C++",
+      "topics": [
+        "a6",
+        "a7",
+        "arduino",
+        "blynk",
+        "esp32",
+        "esp8266"
+      ],
+      "pushed": "2026-07-21",
+      "archived": false,
+      "platform": "Arduino",
+      "matched_query": "gsm+sim800+arduino"
+    },
+    {
+      "full_name": "cifertech/nRFBox",
+      "url": "https://github.com/cifertech/nRFBox",
+      "desc": "Open-source ESP32-powered tool to scan, jam, spoof, and master BLE, Wi-Fi, and 2.4GHz networks.",
+      "stars": 2120,
+      "lang": "C++",
+      "topics": [
+        "arduino",
+        "ble-jammer",
+        "ble-spoof",
+        "ble-spoofer",
+        "cybersecurity",
+        "deauther"
+      ],
+      "pushed": "2026-06-06",
+      "archived": false,
+      "platform": "Arduino",
+      "matched_query": "nrf24l01+arduino"
+    },
+    {
+      "full_name": "cifertech/RF-Clown",
+      "url": "https://github.com/cifertech/RF-Clown",
+      "desc": "BLE and Bluetooth Jammer with nRF24L01 and ESP32",
+      "stars": 1931,
+      "lang": "C++",
+      "topics": [
+        "arduino",
+        "ble",
+        "bluetooth",
+        "cybersecurity",
+        "esp32",
+        "jammer"
+      ],
+      "pushed": "2026-06-06",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "topic:bluetooth+esp32"
+    },
+    {
+      "full_name": "meshtastic/Meshtastic-Android",
+      "url": "https://github.com/meshtastic/Meshtastic-Android",
+      "desc": "Android application for Meshtastic",
+      "stars": 1911,
+      "lang": "Kotlin",
+      "topics": [
+        "android",
+        "bluetooth-low-energy",
+        "encrypted-messaging",
+        "esp32",
+        "gps",
+        "iot"
+      ],
+      "pushed": "2026-11-05",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "lora+esp32"
+    },
+    {
+      "full_name": "JesseCHale/HaleHound-CYD",
+      "url": "https://github.com/JesseCHale/HaleHound-CYD",
+      "desc": "ESP32-DIV HaleHound Edition for Cheap Yellow Display - Multi-protocol offensive security toolkit",
+      "stars": 1891,
+      "lang": null,
+      "topics": [
+        "bluetooth",
+        "cc1101",
+        "cheap-yellow-display",
+        "cyd",
+        "defcon",
+        "defcon33"
+      ],
+      "pushed": "2026-10-26",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "topic:bluetooth+esp32"
+    },
+    {
+      "full_name": "whitecatboard/Lua-RTOS-ESP32",
+      "url": "https://github.com/whitecatboard/Lua-RTOS-ESP32",
+      "desc": "Lua RTOS for ESP32",
+      "stars": 1340,
+      "lang": "C",
+      "topics": [
+        "esp32",
+        "espressif",
+        "freertos",
+        "iot",
+        "iot-platform",
+        "lora"
+      ],
+      "pushed": "2026-04-29",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "lora+esp32"
+    },
+    {
+      "full_name": "DroneBridge/ESP32",
+      "url": "https://github.com/DroneBridge/ESP32",
+      "desc": "DroneBridge for ESP32. A secure & transparent telemetry link with support for WiFi and ESP-NOW. Supporting MAVLink, MSP, LTM or any other protocol",
+      "stars": 1143,
+      "lang": "C",
+      "topics": [
+        "ardupilot",
+        "communication-systems",
+        "datalink",
+        "drone",
+        "dronebridge",
+        "esp32"
+      ],
+      "pushed": "2026-10-26",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "esp-now+esp32"
+    },
+    {
+      "full_name": "lyusupov/SoftRF",
+      "url": "https://github.com/lyusupov/SoftRF",
+      "desc": ":airplane:  Multi-functional, compatible DIY general aviation proximity awareness system",
+      "stars": 1036,
+      "lang": "C",
+      "topics": [
+        "ads-b",
+        "aprs",
+        "aviation",
+        "esp32",
+        "flarm",
+        "gliding"
+      ],
+      "pushed": "2026-11-04",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "lora+esp32"
+    },
+    {
+      "full_name": "W0rthlessS0ul/nRF24_jammer",
+      "url": "https://github.com/W0rthlessS0ul/nRF24_jammer",
+      "desc": "The nRF24 jammer is a powerful tool that requires an ESP32 and configurable numbers of NRF24 modules to assemble. It is designed to create interference, disrupting the normal operation of Bluetooth devices 🔊, BLE technol",
+      "stars": 1001,
+      "lang": "C",
+      "topics": [
+        "ble",
+        "bluetooth",
+        "esp32",
+        "jammer",
+        "nrf24",
+        "wifi"
+      ],
+      "pushed": "2026-10-15",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "zigbee+esp32"
+    },
+    {
+      "full_name": "HelTecAutomation/Heltec_ESP32",
+      "url": "https://github.com/HelTecAutomation/Heltec_ESP32",
+      "desc": "Arduino library for Heltec ESP32 (or ESP32+LoRa) based boards",
+      "stars": 922,
+      "lang": "C",
+      "topics": [],
+      "pushed": "2026-08-24",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "lora+esp32"
+    },
+    {
+      "full_name": "rtlopez/esp-fc",
+      "url": "https://github.com/rtlopez/esp-fc",
+      "desc": "Flight controller software for hobbyist - build your own flight controller.",
+      "stars": 887,
+      "lang": "C",
+      "topics": [
+        "drone",
+        "dshot",
+        "dynamic-notch",
+        "elrs",
+        "esp-now",
+        "esp32"
+      ],
+      "pushed": "2026-10-29",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "esp-now+esp32"
+    },
+    {
+      "full_name": "espressif/esp-now",
+      "url": "https://github.com/espressif/esp-now",
+      "desc": "A connectionless Wi-Fi communication protocol",
+      "stars": 818,
+      "lang": "C",
+      "topics": [
+        "control",
+        "debugger",
+        "esp32",
+        "iot",
+        "ota"
+      ],
+      "pushed": "2026-09-10",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "esp-now+esp32"
+    },
+    {
+      "full_name": "ropg/heltec_esp32_lora_v3",
+      "url": "https://github.com/ropg/heltec_esp32_lora_v3",
+      "desc": "Proper working Arduino library for the Heltec ESP32 LoRa v3 board, as well as for Wireless Stick v3 and Wireless Stick Lite v3. Uses RadioLib",
+      "stars": 715,
+      "lang": "C++",
+      "topics": [],
+      "pushed": "2025-01-01",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "lora+esp32"
+    },
+    {
+      "full_name": "atomic14/esp32-walkie-talkie",
+      "url": "https://github.com/atomic14/esp32-walkie-talkie",
+      "desc": "A Walkie-Talkie based around the ESP32 using UDP broadcast or ESP-NOW",
+      "stars": 653,
+      "lang": "C++",
+      "topics": [],
+      "pushed": "2025-06-14",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "esp-now+esp32"
+    }
+  ],
+  "iot-home-automation": [
+    {
+      "full_name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "stars": 102511,
+      "lang": "Rust",
+      "topics": [
+        "awesome",
+        "claude",
+        "densepose",
+        "esp32",
+        "firmware",
+        "home-assistant"
+      ],
+      "pushed": "2026-11-05",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "home-assistant+esp32"
+    },
+    {
+      "full_name": "arendst/Tasmota",
+      "url": "https://github.com/arendst/Tasmota",
+      "desc": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full d",
+      "stars": 24967,
+      "lang": "C",
+      "topics": [
+        "arduino",
+        "automation",
+        "esp32",
+        "esp8266",
+        "firmware",
+        "iot"
+      ],
+      "pushed": "2026-11-05",
+      "archived": false,
+      "platform": "ESP",
+      "matched_query": "tasmota"
+    },
+    {
+      "full_name": "wled/WLED",
+      "url": "https://github.com/wled/WLED",
+      "desc": "Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!",
+      "stars": 18980,
+      "lang": "C++",
+      "topics": [
+        "esp32",
+        "esp8266",
+        "hacktoberfest",
+        "led",
+        "light"
+      ],
+      "pushed": "2026-11-05",
+      "archived": false,
+      "platform": "ESP8266/ESP32",
+      "matched_query": "wled"
+    },
+    {
+      "full_name": "francescopace/espectre",
+      "url": "https://github.com/francescopace/espectre",
+      "desc": "Wi-Fi motion sensing platform for ESP32. C++ SDK, ESPHome, Native, and Matter frontends, browser tools, and a CLI for the full device lifecycle. GPLv3 and commercial licensing.",
+      "stars": 9744,
+      "lang": "Python",
+      "topics": [
+        "csi",
+        "diy",
+        "embedded",
+        "esp-32",
+        "espectre",
+        "espressif"
+      ],
+      "pushed": "2026-11-03",
+      "archived": false,
+      "platform": "ESP",
+      "matched_query": "esphome"
+    },
+    {
+      "full_name": "blinker-iot/blinker-library",
+      "url": "https://github.com/blinker-iot/blinker-library",
+      "desc": "An IoT Solution,Blinker library for embedded hardware. Works with Arduino R4, ESP32.",
+      "stars": 5206,
+      "lang": "C++",
+      "topics": [
+        "arduino",
+        "ble",
+        "blinker",
+        "embedded",
+        "esp32",
+        "esp8266"
+      ],
+      "pushed": "2026-10-29",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "topic:mqtt+topic:esp32"
+    },
+    {
+      "full_name": "1technophile/OpenMQTTGateway",
+      "url": "https://github.com/1technophile/OpenMQTTGateway",
+      "desc": "MQTT gateway for ESP8266 or ESP32 with bidirectional 433mhz/315mhz/868mhz, Infrared communications, BLE, Bluetooth, beacons detection, mi flora, mi jia, LYWSD02, LYWSD03MMC, Mi Scale, TPMS, BBQ thermometer compatibility ",
+      "stars": 4116,
+      "lang": "C++",
+      "topics": [
+        "arduino",
+        "arduino-uno",
+        "ble",
+        "ble-beacons",
+        "bridge",
+        "esp32"
+      ],
+      "pushed": "2026-10-19",
+      "archived": false,
+      "platform": "Cross-platform",
+      "matched_query": "platformio"
+    },
+    {
+      "full_name": "hyperion-project/hyperion.ng",
+      "url": "https://github.com/hyperion-project/hyperion.ng",
+      "desc": "The successor to Hyperion aka Hyperion Next Generation",
+      "stars": 3974,
+      "lang": "C++",
+      "topics": [
+        "adalight",
+        "ambilight",
+        "apa102",
+        "atmoorb",
+        "capture",
+        "cololight"
+      ],
+      "pushed": "2026-11-03",
+      "archived": false,
+      "platform": "ESP8266/ESP32",
+      "matched_query": "wled"
+    },
+    {
+      "full_name": "smartHomeHub/SmartIR",
+      "url": "https://github.com/smartHomeHub/SmartIR",
+      "desc": "Home Assistant integration to manage climate systems, TVs, fans and lights using IR/RF controllers. Compatible with Broadlink, Xiaomi, MQTT, LOOKin and ESPHome",
+      "stars": 2854,
+      "lang": "Python",
+      "topics": [
+        "broadlink",
+        "chuangmiir",
+        "esphome",
+        "homeassistant",
+        "iot",
+        "lookin"
+      ],
+      "pushed": "2026-11-05",
+      "archived": false,
+      "platform": "ESP",
+      "matched_query": "esphome"
+    },
+    {
+      "full_name": "jxlarrea/kiosk-satellite",
+      "url": "https://github.com/jxlarrea/kiosk-satellite",
+      "desc": "Turn any Android device into a beautiful, dedicated Home Assistant kiosk. Purpose-built for Home Assistant from the ground up.",
+      "stars": 2497,
+      "lang": "Dart",
+      "topics": [
+        "android",
+        "apk",
+        "bluetooth-low-energy",
+        "bluetooth-proxy",
+        "camera",
+        "dlna"
+      ],
+      "pushed": "2026-11-05",
+      "archived": false,
+      "platform": "ESP",
+      "matched_query": "esphome"
+    },
+    {
+      "full_name": "openshwprojects/OpenBK7231T_App",
+      "url": "https://github.com/openshwprojects/OpenBK7231T_App",
+      "desc": "Open source firmware (Tasmota/Esphome replacement) for BK7231T, BK7231N, BL2028N, T34, XR809, W800/W801, W600/W601, BL602, LN882H, Realtek chips and more",
+      "stars": 2346,
+      "lang": "C",
+      "topics": [
+        "bk7231",
+        "bk7231n",
+        "bk7231t",
+        "bl602",
+        "home-assistant",
+        "iot"
+      ],
+      "pushed": "2026-10-28",
+      "archived": false,
+      "platform": "ESP",
+      "matched_query": "esphome"
+    },
+    {
+      "full_name": "awawa-dev/HyperHDR",
+      "url": "https://github.com/awawa-dev/HyperHDR",
+      "desc": "Next-gen open source ambient lighting system featuring a high-precision floating-point color pipeline breaking legacy RGB 24-bit limits. Includes advanced smoothing with inertia and adaptive temporal dithering for perfec",
+      "stars": 2287,
+      "lang": "C++",
+      "topics": [
+        "adalight",
+        "ambilight",
+        "directx",
+        "dithering",
+        "esp32",
+        "hdr"
+      ],
+      "pushed": "2026-11-01",
+      "archived": false,
+      "platform": "ESP8266/ESP32",
+      "matched_query": "wled"
+    },
+    {
+      "full_name": "agittins/bermuda",
+      "url": "https://github.com/agittins/bermuda",
+      "desc": "Bermuda Bluetooth/BLE Triangulation / Trilateration for HomeAssistant",
+      "stars": 2130,
+      "lang": "Python",
+      "topics": [
+        "ble",
+        "bluetooth-beacons",
+        "bluetooth-low-energy",
+        "bluetooth-proxy",
+        "esphome",
+        "hacs-integration"
+      ],
+      "pushed": "2026-10-20",
+      "archived": false,
+      "platform": "ESP",
+      "matched_query": "esphome"
+    },
+    {
+      "full_name": "LedFx/LedFx",
+      "url": "https://github.com/LedFx/LedFx",
+      "desc": "LedFx is a network based LED effect engine designed to deliver advanced real-time audio effects to a wide variety of devices.",
+      "stars": 2097,
+      "lang": "Python",
+      "topics": [
+        "audio-processing",
+        "e131",
+        "led-strips",
+        "microphone",
+        "music-visualizer",
+        "python"
+      ],
+      "pushed": "2026-11-02",
+      "archived": false,
+      "platform": "ESP8266/ESP32",
+      "matched_query": "wled"
+    },
+    {
+      "full_name": "Blackymas/NSPanel_HA_Blueprint",
+      "url": "https://github.com/Blackymas/NSPanel_HA_Blueprint",
+      "desc": "This allows you to configure your complete NSPanel via Blueprint with UI and without changing anything in the code",
+      "stars": 1963,
+      "lang": "C++",
+      "topics": [
+        "blueprint",
+        "esphome",
+        "home-assistant",
+        "homeassistant",
+        "nextion",
+        "nextion-display"
+      ],
+      "pushed": "2026-07-04",
+      "archived": false,
+      "platform": "ESP",
+      "matched_query": "esphome"
+    },
+    {
+      "full_name": "adonno/tagreader",
+      "url": "https://github.com/adonno/tagreader",
+      "desc": "Simple to build/use NFC tag reader, specially created for Home Assistant",
+      "stars": 1623,
+      "lang": "Shell",
+      "topics": [
+        "esphome",
+        "tag-reader"
+      ],
+      "pushed": "2026-04-27",
+      "archived": false,
+      "platform": "ESP",
+      "matched_query": "esphome"
+    },
+    {
+      "full_name": "tasmota/tasmotizer",
+      "url": "https://github.com/tasmota/tasmotizer",
+      "desc": "ESP... The time has come to... Tasmotize!",
+      "stars": 1542,
+      "lang": "Python",
+      "topics": [
+        "backup-utility",
+        "config-management",
+        "esp8266",
+        "flash",
+        "restore-utility",
+        "tasmota"
+      ],
+      "pushed": "2024-01-30",
+      "archived": false,
+      "platform": "ESP",
+      "matched_query": "tasmota"
+    },
+    {
+      "full_name": "ESPresense/ESPresense",
+      "url": "https://github.com/ESPresense/ESPresense",
+      "desc": "An ESP32 based node for gathering indoor positioning and transmitting to mqtt",
+      "stars": 1502,
+      "lang": "C",
+      "topics": [
+        "esp32",
+        "esp32-arduino",
+        "hacktoberfest",
+        "home-assistant",
+        "home-automation",
+        "homeassistant"
+      ],
+      "pushed": "2026-11-05",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "topic:mqtt+topic:esp32"
+    },
+    {
+      "full_name": "mysensors/MySensors",
+      "url": "https://github.com/mysensors/MySensors",
+      "desc": "MySensors library and examples",
+      "stars": 1363,
+      "lang": "C++",
+      "topics": [
+        "arduino",
+        "diy",
+        "esp32",
+        "esp8266",
+        "home-automation",
+        "iot"
+      ],
+      "pushed": "2026-04-18",
+      "archived": false,
+      "platform": "ESP8266",
+      "matched_query": "topic:home-automation+topic:esp8266"
+    },
+    {
+      "full_name": "Madelena/esphome-weatherman-dashboard",
+      "url": "https://github.com/Madelena/esphome-weatherman-dashboard",
+      "desc": "A simple dashboard with weather and NYC subway information for ESPHome",
+      "stars": 1279,
+      "lang": null,
+      "topics": [
+        "esphome",
+        "esphome-config",
+        "esphomeyaml",
+        "esphomeyaml-config",
+        "home-assistant",
+        "homeassistant"
+      ],
+      "pushed": "2024-07-28",
+      "archived": false,
+      "platform": "ESP",
+      "matched_query": "esphome"
+    },
+    {
+      "full_name": "klaasnicolaas/home-assistant-glow",
+      "url": "https://github.com/klaasnicolaas/home-assistant-glow",
+      "desc": "⚡ The power of energy measurements in your house",
+      "stars": 1277,
+      "lang": null,
+      "topics": [
+        "electricity",
+        "energy",
+        "esp32",
+        "esp8266",
+        "esphome",
+        "glow"
+      ],
+      "pushed": "2026-11-02",
+      "archived": false,
+      "platform": "ESP",
+      "matched_query": "esphome"
+    },
+    {
+      "full_name": "jtenniswood/espcontrol",
+      "url": "https://github.com/jtenniswood/espcontrol",
+      "desc": "Esphome based smart home control panel",
+      "stars": 1141,
+      "lang": "C++",
+      "topics": [
+        "esp32",
+        "home-assistant"
+      ],
+      "pushed": "2026-11-05",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "home-assistant+esp32"
+    },
+    {
+      "full_name": "joBr99/nspanel-lovelace-ui",
+      "url": "https://github.com/joBr99/nspanel-lovelace-ui",
+      "desc": "Custom Firmware for NsPanel with the design of HomeAssistant's lovelace UI in mind, works with Tasmota.",
+      "stars": 997,
+      "lang": "TypeScript",
+      "topics": [
+        "appdeamon",
+        "hacktoberfest",
+        "home-assistant",
+        "home-automation",
+        "homeassistant",
+        "iobroker"
+      ],
+      "pushed": "2026-11-02",
+      "archived": false,
+      "platform": "ESP",
+      "matched_query": "tasmota"
+    },
+    {
+      "full_name": "TasmoAdmin/TasmoAdmin",
+      "url": "https://github.com/TasmoAdmin/TasmoAdmin",
+      "desc": "TasmoAdmin is an administrative platform for devices flashed with Tasmota",
+      "stars": 979,
+      "lang": "PHP",
+      "topics": [
+        "addon-tasmoadmin",
+        "devices-flashed",
+        "docker",
+        "esp8266",
+        "hacktoberfest",
+        "hassio"
+      ],
+      "pushed": "2026-11-05",
+      "archived": false,
+      "platform": "ESP",
+      "matched_query": "tasmota"
+    },
+    {
+      "full_name": "jziolkowski/tdm",
+      "url": "https://github.com/jziolkowski/tdm",
+      "desc": "GUI application to discover and monitor devices flashed with https://github.com/arendst/tasmota",
+      "stars": 707,
+      "lang": "Python",
+      "topics": [
+        "discovery",
+        "esp8266",
+        "management",
+        "mqtt",
+        "mqtt-client",
+        "sonoff"
+      ],
+      "pushed": "2024-10-06",
+      "archived": false,
+      "platform": "ESP",
+      "matched_query": "tasmota"
+    },
+    {
+      "full_name": "benzino77/tasmocompiler",
+      "url": "https://github.com/benzino77/tasmocompiler",
+      "desc": "Web GUI for custom Tasmota compilation",
+      "stars": 627,
+      "lang": "C",
+      "topics": [
+        "compiler",
+        "esp32",
+        "esp8266",
+        "firmware",
+        "sonoff",
+        "tasmota"
+      ],
+      "pushed": "2026-10-31",
+      "archived": false,
+      "platform": "ESP",
+      "matched_query": "tasmota"
+    }
+  ],
+  "audio": [
+    {
+      "full_name": "pschatzmann/ESP32-A2DP",
+      "url": "https://github.com/pschatzmann/ESP32-A2DP",
+      "desc": "A Simple ESP32 Bluetooth A2DP Library (to implement a Music Receiver or Sender) that supports Arduino, PlatformIO and Espressif IDF",
+      "stars": 2797,
+      "lang": "C++",
+      "topics": [
+        "a2dp-sink",
+        "a2dp-source",
+        "arduino-library",
+        "audio",
+        "bluetooth",
+        "bluetooth-speaker"
+      ],
+      "pushed": "2026-10-31",
+      "archived": false,
+      "platform": "Cross-platform",
+      "matched_query": "platformio"
+    },
+    {
+      "full_name": "earlephilhower/ESP8266Audio",
+      "url": "https://github.com/earlephilhower/ESP8266Audio",
+      "desc": "Arduino library to play MOD, WAV, FLAC, MIDI, RTTTL, OGG/Opus, MP3, and AAC files on I2S DACs or with a software emulated delta-sigma DAC on the ESP8266 and ESP32 and Pico",
+      "stars": 2415,
+      "lang": "C",
+      "topics": [
+        "aac",
+        "arduino",
+        "dac",
+        "esp32",
+        "esp8266",
+        "flac"
+      ],
+      "pushed": "2026-10-07",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "esp32+audio"
+    },
+    {
+      "full_name": "schreibfaul1/ESP32-audioI2S",
+      "url": "https://github.com/schreibfaul1/ESP32-audioI2S",
+      "desc": "Play mp3 files from SD via I2S",
+      "stars": 1719,
+      "lang": "C",
+      "topics": [
+        "aac",
+        "cs4344",
+        "esp32",
+        "flac",
+        "google-tts",
+        "i2s"
+      ],
+      "pushed": "2026-11-05",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "esp32+audio"
+    },
+    {
+      "full_name": "e2002/yoradio",
+      "url": "https://github.com/e2002/yoradio",
+      "desc": "Web-radio based on ESP32-audioI2S library",
+      "stars": 1228,
+      "lang": "C++",
+      "topics": [],
+      "pushed": "2025-09-15",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "esp32+web+radio"
+    },
+    {
+      "full_name": "korginc/logue-sdk",
+      "url": "https://github.com/korginc/logue-sdk",
+      "desc": "This repository contains all the files and tools needed to build custom oscillators and effects for the prologue synthesizer.",
+      "stars": 1054,
+      "lang": "C",
+      "topics": [
+        "audio",
+        "dsp",
+        "embedded",
+        "stm32",
+        "wasm"
+      ],
+      "pushed": "2026-10-20",
+      "archived": false,
+      "platform": "Cross-platform",
+      "matched_query": "dsp+embedded+audio"
+    },
+    {
+      "full_name": "TMRh20/TMRpcm",
+      "url": "https://github.com/TMRh20/TMRpcm",
+      "desc": "Arduino library for asynchronous playback of PCM/WAV files direct from SD card. Arduino Uno,Nano,Mega etc supported",
+      "stars": 651,
+      "lang": "C++",
+      "topics": [],
+      "pushed": "2025-11-29",
+      "archived": false,
+      "platform": "Arduino",
+      "matched_query": "sd+card+arduino+library"
+    },
+    {
+      "full_name": "karawin/Ka-Radio32",
+      "url": "https://github.com/karawin/Ka-Radio32",
+      "desc": "esp32 version of Ka-Radio (https://github.com/karawin/Ka-Radio) by jp Cocatrix",
+      "stars": 614,
+      "lang": "C",
+      "topics": [
+        "esp32",
+        "espressif",
+        "i2s",
+        "ka-radio32",
+        "vs1053",
+        "webradio"
+      ],
+      "pushed": "2026-11-02",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "esp32+i2s"
+    },
+    {
+      "full_name": "sonocotta/esp32-audio-dock",
+      "url": "https://github.com/sonocotta/esp32-audio-dock",
+      "desc": "ESP32 Audio Developent boards: HiFi-ESP32, Loud-ESP32, Amped-ESP32, Louder-ESP32",
+      "stars": 478,
+      "lang": "C++",
+      "topics": [],
+      "pushed": "2026-11-04",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "esp32+audio"
+    },
+    {
+      "full_name": "atomic14/esp32_audio",
+      "url": "https://github.com/atomic14/esp32_audio",
+      "desc": "Sample code for reading audio samples from the ESP32 ADC using I2S",
+      "stars": 471,
+      "lang": "C++",
+      "topics": [],
+      "pushed": "2023-01-04",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "esp32+audio"
+    },
+    {
+      "full_name": "biologist79/ESPuino",
+      "url": "https://github.com/biologist79/ESPuino",
+      "desc": "RFID-controlled musicplayer powered by ESP32",
+      "stars": 439,
+      "lang": "C++",
+      "topics": [
+        "arduino",
+        "esp32",
+        "i2s",
+        "i2s-audio",
+        "kinder",
+        "max98357a"
+      ],
+      "pushed": "2026-10-31",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "esp32+i2s"
+    },
+    {
+      "full_name": "trash80/Arduinoboy",
+      "url": "https://github.com/trash80/Arduinoboy",
+      "desc": "Official ArduinoBoy Repository for serial MIDI communication to the Nintendo Gameboy.",
+      "stars": 375,
+      "lang": "Max",
+      "topics": [],
+      "pushed": "2020-11-16",
+      "archived": false,
+      "platform": "Arduino",
+      "matched_query": "gameboy+arduino"
+    },
+    {
+      "full_name": "Romkabouter/ESP32-Rhasspy-Satellite",
+      "url": "https://github.com/Romkabouter/ESP32-Rhasspy-Satellite",
+      "desc": "The repo has implementing an esp32 standalone MQTT audio streamer. Is is desinged to work as a satellite for Rhasspy (https://rhasspy.readthedocs.io/en/latest/). It supports multiple devices",
+      "stars": 373,
+      "lang": "C++",
+      "topics": [
+        "arduino",
+        "audiokit",
+        "esp32",
+        "m5atom",
+        "matrix-voice",
+        "mqtt"
+      ],
+      "pushed": "2024-04-04",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "esp32+audio"
+    },
+    {
+      "full_name": "danilogcrf2-oss/ESP32Synth",
+      "url": "https://github.com/danilogcrf2-oss/ESP32Synth",
+      "desc": "Polyphonic synthesizer with up to 350 voices/channels for the ESP32 dual core family, offering high-fidelity audio (48kHz @ 32bit).",
+      "stars": 355,
+      "lang": "C",
+      "topics": [
+        "audio",
+        "audio-player",
+        "audio-processing",
+        "bare-metal",
+        "diy-electronics",
+        "esp32"
+      ],
+      "pushed": "2026-10-17",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "esp32+audio"
+    },
+    {
+      "full_name": "marcel-licence/esp32_basic_synth",
+      "url": "https://github.com/marcel-licence/esp32_basic_synth",
+      "desc": "ESP32 based simple synthesizer project",
+      "stars": 320,
+      "lang": "C++",
+      "topics": [
+        "arduino",
+        "audio",
+        "esp32",
+        "midi",
+        "synthesizer"
+      ],
+      "pushed": "2025-06-17",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "esp32+audio"
+    },
+    {
+      "full_name": "ikostoski/esp32-i2s-slm",
+      "url": "https://github.com/ikostoski/esp32-i2s-slm",
+      "desc": "Sound Level Meter with ESP32 and I2S MEMS microphone",
+      "stars": 312,
+      "lang": "C++",
+      "topics": [
+        "a-weighting",
+        "arduino",
+        "esp32",
+        "i2s",
+        "iir-filter",
+        "level"
+      ],
+      "pushed": "2021-07-19",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "esp32+i2s"
+    },
+    {
+      "full_name": "Edzelf/ESP32Radio-V2",
+      "url": "https://github.com/Edzelf/ESP32Radio-V2",
+      "desc": "New version of the well known ESP32 Radio.  Now optional I2S output!",
+      "stars": 309,
+      "lang": "C++",
+      "topics": [],
+      "pushed": "2026-02-18",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "esp32+i2s"
+    },
+    {
+      "full_name": "miketeachman/micropython-i2s-examples",
+      "url": "https://github.com/miketeachman/micropython-i2s-examples",
+      "desc": "Examples for I2S support on microcontrollers that run MicroPython",
+      "stars": 306,
+      "lang": "Python",
+      "topics": [
+        "audio",
+        "esp32",
+        "i2s",
+        "i2s-dac",
+        "i2s-microphone",
+        "i2s-protocol"
+      ],
+      "pushed": "2025-01-26",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "esp32+audio"
+    },
+    {
+      "full_name": "kodera2t/ESP32_OLED_webradio",
+      "url": "https://github.com/kodera2t/ESP32_OLED_webradio",
+      "desc": "OLED display support is added to ESP32 MP3 web radio/bluetotooth speaker code by MrBuddyCasino's. Now webradio station switching is supported (implemented by n24bass)",
+      "stars": 254,
+      "lang": "C++",
+      "topics": [
+        "esp32",
+        "oled",
+        "webradio"
+      ],
+      "pushed": "2020-04-24",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "esp32+web+radio"
+    },
+    {
+      "full_name": "CoretechR/Retro-Audio",
+      "url": "https://github.com/CoretechR/Retro-Audio",
+      "desc": "Portable MP3 Player for Music and Audiobooks",
+      "stars": 233,
+      "lang": "C",
+      "topics": [
+        "arduino",
+        "audio",
+        "esp32",
+        "mp3",
+        "player"
+      ],
+      "pushed": "2023-03-06",
+      "archived": false,
+      "platform": "Arduino",
+      "matched_query": "arduino+mp3+player"
+    },
+    {
+      "full_name": "Sukecz/esp32-birdnet-mic",
+      "url": "https://github.com/Sukecz/esp32-birdnet-mic",
+      "desc": "ESP32 audio streamer and standalone microSD field recorder. Stream to BirdNET-Go/Pi or record wildlife sounds offline, with browser setup and battery monitoring.",
+      "stars": 228,
+      "lang": "C++",
+      "topics": [
+        "audio",
+        "audio-streaming",
+        "bird-net",
+        "birdnet",
+        "birdnet-go",
+        "birdnet-pi"
+      ],
+      "pushed": "2026-11-03",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "battery+monitor+esp32"
+    },
+    {
+      "full_name": "cyberwisk/M5Cardputer_WebRadio",
+      "url": "https://github.com/cyberwisk/M5Cardputer_WebRadio",
+      "desc": "M5Cardputer_WebRadio",
+      "stars": 136,
+      "lang": "C++",
+      "topics": [
+        "esp32",
+        "esp32-s3-xtensa",
+        "m5-cardputer",
+        "m5stack",
+        "m5stickcplus",
+        "stamps3"
+      ],
+      "pushed": "2026-08-15",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "esp32+web+radio"
+    },
+    {
+      "full_name": "thi-ng/synstack",
+      "url": "https://github.com/thi-ng/synstack",
+      "desc": "Modular soft synth & Forth based VM for audio DSL experiments aimed at embedded devices",
+      "stars": 134,
+      "lang": "C",
+      "topics": [
+        "audio",
+        "c11",
+        "dsp",
+        "forth",
+        "portaudio",
+        "stm32"
+      ],
+      "pushed": "2026-02-03",
+      "archived": false,
+      "platform": "Cross-platform",
+      "matched_query": "dsp+embedded+audio"
+    },
+    {
+      "full_name": "madsci1016/Sparkfun-MP3-Player-Shield-Arduino-Library",
+      "url": "https://github.com/madsci1016/Sparkfun-MP3-Player-Shield-Arduino-Library",
+      "desc": "A nice and neat library for playing MP3s on your Arduino using Sparkfun's MP3 Player Shield",
+      "stars": 111,
+      "lang": "C++",
+      "topics": [],
+      "pushed": "2023-08-24",
+      "archived": false,
+      "platform": "Arduino",
+      "matched_query": "arduino+mp3+player"
+    },
+    {
+      "full_name": "Slackadays/Chata",
+      "url": "https://github.com/Slackadays/Chata",
+      "desc": ":guitar::long_drum::magic_wand: Make DSP Great Again. Powered by RISC-V!",
+      "stars": 110,
+      "lang": "C++",
+      "topics": [
+        "api",
+        "audio",
+        "cli",
+        "community",
+        "console",
+        "cross-platform"
+      ],
+      "pushed": "2025-09-10",
+      "archived": false,
+      "platform": "Cross-platform",
+      "matched_query": "dsp+embedded+audio"
+    },
+    {
+      "full_name": "cifertech/Fennec",
+      "url": "https://github.com/cifertech/Fennec",
+      "desc": "Handheld AM / FM / SW receiver on ESP32-S3 and SI4732. SSTV, Morse, RSSI homing, and a web remote.",
+      "stars": 108,
+      "lang": "C++",
+      "topics": [
+        "am-fm",
+        "arduino",
+        "cifertech",
+        "esp32-s3",
+        "ham-radio",
+        "ili9341"
+      ],
+      "pushed": "2026-08-31",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "esp32+web+radio"
+    },
+    {
+      "full_name": "Neutrino-1/Arduino-Soundpod",
+      "url": "https://github.com/Neutrino-1/Arduino-Soundpod",
+      "desc": "An Arduino based MP3 player which uses a 1.3\" OLED display and DFPlayer",
+      "stars": 85,
+      "lang": "C++",
+      "topics": [
+        "arduino",
+        "audio-player",
+        "dfplayer-mini",
+        "oled",
+        "portable",
+        "sh1106"
+      ],
+      "pushed": "2023-10-23",
+      "archived": false,
+      "platform": "Arduino",
+      "matched_query": "arduino+mp3+player"
+    },
+    {
+      "full_name": "michelep/ESP32_WebRadio",
+      "url": "https://github.com/michelep/ESP32_WebRadio",
+      "desc": "An Internet web radio based to ESP32",
+      "stars": 65,
+      "lang": "C++",
+      "topics": [
+        "arduino",
+        "audio",
+        "dac",
+        "esp32",
+        "i2s",
+        "i2s-audio"
+      ],
+      "pushed": "2021-11-03",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "esp32+web+radio"
+    },
+    {
+      "full_name": "enjoyneering/DFPlayer",
+      "url": "https://github.com/enjoyneering/DFPlayer",
+      "desc": "Small and fast Arduino library for DFPlayer Mini MP3 Player",
+      "stars": 62,
+      "lang": "C++",
+      "topics": [
+        "arduino",
+        "arduino-library",
+        "dfplayer",
+        "dfplayer-mini",
+        "dfplayer-mini-mp3",
+        "dfplayermini"
+      ],
+      "pushed": "2024-06-02",
+      "archived": false,
+      "platform": "Arduino",
+      "matched_query": "arduino+mp3+player"
+    },
+    {
+      "full_name": "sleemanj/JQ6500_Serial",
+      "url": "https://github.com/sleemanj/JQ6500_Serial",
+      "desc": "Arduino Library for the JQ6500 MP3 Player Modules",
+      "stars": 61,
+      "lang": "C++",
+      "topics": [],
+      "pushed": "2023-09-23",
+      "archived": false,
+      "platform": "Arduino",
+      "matched_query": "arduino+mp3+player"
+    }
+  ],
+  "robotics-motors": [
+    {
+      "full_name": "MarlinFirmware/Marlin",
+      "url": "https://github.com/MarlinFirmware/Marlin",
+      "desc": "Marlin is a firmware for RepRap 3D printers optimized for both 8 and 32 bit microcontrollers.  Marlin supports all common platforms.   Many commercial 3D printers come with Marlin installed.  Check with your vendor if yo",
+      "stars": 17647,
+      "lang": "C++",
+      "topics": [
+        "3d-printing",
+        "arduino",
+        "atmel",
+        "avr",
+        "esp32",
+        "firmware"
+      ],
+      "pushed": "2026-11-05",
+      "archived": false,
+      "platform": "3D printers",
+      "matched_query": "marlin+firmware"
+    },
+    {
+      "full_name": "makerspet/oomwoo",
+      "url": "https://github.com/makerspet/oomwoo",
+      "desc": "Open-source vacuum robot cleaner",
+      "stars": 12974,
+      "lang": "Python",
+      "topics": [
+        "3d-printing",
+        "arduino",
+        "diy-electronics",
+        "diy-project",
+        "esp32",
+        "esp32-arduino"
+      ],
+      "pushed": "2026-11-05",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "home-assistant+esp32"
+    },
+    {
+      "full_name": "Klipper3d/klipper",
+      "url": "https://github.com/Klipper3d/klipper",
+      "desc": "Klipper is a 3d-printer firmware",
+      "stars": 12028,
+      "lang": "C",
+      "topics": [],
+      "pushed": "2026-10-28",
+      "archived": false,
+      "platform": "3D printers",
+      "matched_query": "klipper"
+    },
+    {
+      "full_name": "ClemensElflein/OpenMower",
+      "url": "https://github.com/ClemensElflein/OpenMower",
+      "desc": "Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!",
+      "stars": 6753,
+      "lang": "Shell",
+      "topics": [
+        "arduino",
+        "gps",
+        "landscaping",
+        "lawn-mower",
+        "path-finding",
+        "raspberry-pi"
+      ],
+      "pushed": "2026-09-03",
+      "archived": false,
+      "platform": "Arduino",
+      "matched_query": "arduino+robot"
+    },
+    {
+      "full_name": "grbl/grbl",
+      "url": "https://github.com/grbl/grbl",
+      "desc": "An open source, embedded, high performance g-code-parser and CNC milling controller written in optimized C that will run on a straight Arduino",
+      "stars": 6316,
+      "lang": "C",
+      "topics": [],
+      "pushed": "2024-06-02",
+      "archived": false,
+      "platform": "Arduino",
+      "matched_query": "grbl+cnc"
+    },
+    {
+      "full_name": "PetoiCamp/OpenCat-Quadruped-Robot",
+      "url": "https://github.com/PetoiCamp/OpenCat-Quadruped-Robot",
+      "desc": "An open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications, AI-enhanced robotics application ser",
+      "stars": 5542,
+      "lang": "C++",
+      "topics": [
+        "ai",
+        "arduino",
+        "block-coding",
+        "education",
+        "iot",
+        "legged-robot"
+      ],
+      "pushed": "2026-09-08",
+      "archived": false,
+      "platform": "Arduino",
+      "matched_query": "arduino+framework"
+    },
+    {
+      "full_name": "dorianborian/sesame-robot",
+      "url": "https://github.com/dorianborian/sesame-robot",
+      "desc": "An open and affordable mini quadruped robot based on ESP32.",
+      "stars": 4962,
+      "lang": "C",
+      "topics": [
+        "hardware",
+        "robotics",
+        "walking-robot"
+      ],
+      "pushed": "2026-10-15",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "esp32+robot"
+    },
+    {
+      "full_name": "dw-0/kiauh",
+      "url": "https://github.com/dw-0/kiauh",
+      "desc": "Klipper Installation And Update Helper",
+      "stars": 4584,
+      "lang": "Python",
+      "topics": [
+        "3d-printing",
+        "fluidd",
+        "klipper",
+        "klipperscreen",
+        "mainsail",
+        "moonraker"
+      ],
+      "pushed": "2026-11-04",
+      "archived": false,
+      "platform": "3D printers",
+      "matched_query": "klipper"
+    },
+    {
+      "full_name": "ob-f/OpenBot",
+      "url": "https://github.com/ob-f/OpenBot",
+      "desc": "OpenBot leverages smartphones as brains for low-cost robots. We have designed a small electric vehicle that costs about $50 and serves as a robot body. Our software stack for Android smartphones supports advanced robotic",
+      "stars": 3637,
+      "lang": "Swift",
+      "topics": [
+        "android",
+        "arduino",
+        "deeplearning",
+        "education",
+        "openbot",
+        "research"
+      ],
+      "pushed": "2026-11-04",
+      "archived": false,
+      "platform": "Arduino",
+      "matched_query": "arduino+robot"
+    },
+    {
+      "full_name": "simplefoc/Arduino-FOC",
+      "url": "https://github.com/simplefoc/Arduino-FOC",
+      "desc": "Arduino FOC for BLDC and Stepper motors - Arduino Based Field Oriented Control Algorithm Library",
+      "stars": 3098,
+      "lang": "C++",
+      "topics": [
+        "arduino",
+        "arduino-foc",
+        "arduino-library",
+        "arduino-simplefoc",
+        "bldc-motor",
+        "bldc-motor-controller"
+      ],
+      "pushed": "2026-10-07",
+      "archived": false,
+      "platform": "Arduino",
+      "matched_query": "stepper+motor+arduino"
+    },
+    {
+      "full_name": "cncjs/cncjs",
+      "url": "https://github.com/cncjs/cncjs",
+      "desc": "A web-based interface for CNC milling controller running Grbl, Marlin, Smoothieware, or TinyG.",
+      "stars": 2666,
+      "lang": "JavaScript",
+      "topics": [
+        "cnc",
+        "cnc-milling-controller",
+        "cncjs",
+        "g2core",
+        "gcode",
+        "grbl"
+      ],
+      "pushed": "2026-10-31",
+      "archived": false,
+      "platform": "Arduino",
+      "matched_query": "grbl+cnc"
+    },
+    {
+      "full_name": "EtteGit/EnragedRabbitProject",
+      "url": "https://github.com/EtteGit/EnragedRabbitProject",
+      "desc": "",
+      "stars": 2582,
+      "lang": "Python",
+      "topics": [
+        "carrot-feeder",
+        "ercf",
+        "klipper",
+        "mmu",
+        "multimaterial",
+        "voron"
+      ],
+      "pushed": "2024-01-17",
+      "archived": false,
+      "platform": "3D printers",
+      "matched_query": "klipper"
+    },
+    {
+      "full_name": "okalachev/flix",
+      "url": "https://github.com/okalachev/flix",
+      "desc": "Making an ESP32-based quadcopter from scratch",
+      "stars": 2451,
+      "lang": "C++",
+      "topics": [
+        "arduino",
+        "autopilot",
+        "control-theory",
+        "drone",
+        "esp32",
+        "flight-control"
+      ],
+      "pushed": "2026-11-05",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "drone+esp32"
+    },
+    {
+      "full_name": "espressif/esp-drone",
+      "url": "https://github.com/espressif/esp-drone",
+      "desc": "Mini Drone/Quadcopter Firmware for ESP32 and ESP32-S Series SoCs.",
+      "stars": 2297,
+      "lang": "C",
+      "topics": [
+        "drone",
+        "esp32",
+        "quadcopter"
+      ],
+      "pushed": "2026-10-26",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "drone+esp32"
+    },
+    {
+      "full_name": "MarlinFirmware/Configurations",
+      "url": "https://github.com/MarlinFirmware/Configurations",
+      "desc": "Configurations for Marlin Firmware",
+      "stars": 2287,
+      "lang": "C",
+      "topics": [
+        "3d-printing",
+        "c-plus-plus"
+      ],
+      "pushed": "2026-11-04",
+      "archived": false,
+      "platform": "3D printers",
+      "matched_query": "marlin+firmware"
+    },
+    {
+      "full_name": "winder/Universal-G-Code-Sender",
+      "url": "https://github.com/winder/Universal-G-Code-Sender",
+      "desc": "A cross-platform G-Code sender for GRBL, Smoothieware, TinyG and G2core.",
+      "stars": 2283,
+      "lang": "Java",
+      "topics": [
+        "cnc",
+        "g2core",
+        "gcode",
+        "gcode-editor",
+        "gcode-parser",
+        "gcode-sender"
+      ],
+      "pushed": "2026-11-05",
+      "archived": false,
+      "platform": "Arduino",
+      "matched_query": "grbl+cnc"
+    },
+    {
+      "full_name": "mainsail-crew/mainsail",
+      "url": "https://github.com/mainsail-crew/mainsail",
+      "desc": "Mainsail is the popular web interface for managing and controlling 3D printers with Klipper.",
+      "stars": 2244,
+      "lang": "Vue",
+      "topics": [
+        "3d-printing",
+        "hacktoberfest",
+        "interface",
+        "klipper",
+        "mainsail",
+        "moonraker"
+      ],
+      "pushed": "2026-10-31",
+      "archived": false,
+      "platform": "3D printers",
+      "matched_query": "klipper"
+    },
+    {
+      "full_name": "kyleisah/Klipper-Adaptive-Meshing-Purging",
+      "url": "https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging",
+      "desc": "A unique leveling solution for Klipper-enabled 3D printers!",
+      "stars": 2230,
+      "lang": null,
+      "topics": [],
+      "pushed": "2026-09-14",
+      "archived": false,
+      "platform": "3D printers",
+      "matched_query": "klipper"
+    },
+    {
+      "full_name": "luc-github/ESP3D",
+      "url": "https://github.com/luc-github/ESP3D",
+      "desc": "FW for ESP8266/ESP8285/ESP32 used with 3D printer",
+      "stars": 2002,
+      "lang": "C",
+      "topics": [
+        "3d-printer",
+        "arduino",
+        "cnc",
+        "esp32",
+        "esp8266",
+        "esp8285"
+      ],
+      "pushed": "2026-11-05",
+      "archived": false,
+      "platform": "Arduino",
+      "matched_query": "grbl+cnc"
+    },
+    {
+      "full_name": "bdring/Grbl_Esp32",
+      "url": "https://github.com/bdring/Grbl_Esp32",
+      "desc": "A port of Grbl CNC Firmware for ESP32",
+      "stars": 1976,
+      "lang": "nesC",
+      "topics": [
+        "cnc",
+        "esp32",
+        "grbl",
+        "stepper-motor"
+      ],
+      "pushed": "2024-02-25",
+      "archived": false,
+      "platform": "Arduino",
+      "matched_query": "grbl+cnc"
+    },
+    {
+      "full_name": "stack-chan/stack-chan",
+      "url": "https://github.com/stack-chan/stack-chan",
+      "desc": "A JavaScript-driven M5Stack-embedded super-kawaii robot.",
+      "stars": 1847,
+      "lang": "TypeScript",
+      "topics": [
+        "chatgpt",
+        "esp32",
+        "fusion360",
+        "hardware",
+        "javascript",
+        "kawaii"
+      ],
+      "pushed": "2026-11-05",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "esp32+robot"
+    },
+    {
+      "full_name": "fluidd-core/fluidd",
+      "url": "https://github.com/fluidd-core/fluidd",
+      "desc": "Fluidd, the klipper UI.",
+      "stars": 1843,
+      "lang": "Vue",
+      "topics": [
+        "3d-printing",
+        "fluidd",
+        "hacktoberfest",
+        "klipper",
+        "moonraker",
+        "voron"
+      ],
+      "pushed": "2026-11-04",
+      "archived": false,
+      "platform": "3D printers",
+      "matched_query": "klipper"
+    },
+    {
+      "full_name": "Skythinker616/foc-wheel-legged-robot",
+      "url": "https://github.com/Skythinker616/foc-wheel-legged-robot",
+      "desc": "Open source materials for a novel structured legged robot, including mechanical design, electronic design, algorithm simulation, and software development.   |   一个新型结构的轮腿机器人开源资料，包含机械设计、电子设计、算法仿真、软件开发等材料",
+      "stars": 1831,
+      "lang": "C",
+      "topics": [
+        "android",
+        "esp32",
+        "foc",
+        "fpv",
+        "robot",
+        "simscape-multibody"
+      ],
+      "pushed": "2023-11-23",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "esp32+robot"
+    },
+    {
+      "full_name": "LuwuDynamics/xgoduck_hardware",
+      "url": "https://github.com/LuwuDynamics/xgoduck_hardware",
+      "desc": "Build your own robot duck. XGO-Duck is a 3D-printable biped powered by Arduino UNO Q and 15 servos, adapted from Pollen Robotics' Microduck. Includes mechanical models, PCB designs, a BOM, and an assembly guide. Build it",
+      "stars": 1794,
+      "lang": "Game Maker Language",
+      "topics": [
+        "3d-printing",
+        "arduino",
+        "bipedal-robots",
+        "diy",
+        "legged-robots",
+        "microduck"
+      ],
+      "pushed": "2026-11-05",
+      "archived": false,
+      "platform": "Arduino",
+      "matched_query": "arduino+robot"
+    },
+    {
+      "full_name": "vlachoudis/bCNC",
+      "url": "https://github.com/vlachoudis/bCNC",
+      "desc": "GRBL CNC command sender, autoleveler and g-code editor",
+      "stars": 1757,
+      "lang": "Python",
+      "topics": [],
+      "pushed": "2026-10-29",
+      "archived": false,
+      "platform": "Arduino",
+      "matched_query": "grbl+cnc"
+    },
+    {
+      "full_name": "Arksine/moonraker",
+      "url": "https://github.com/Arksine/moonraker",
+      "desc": "Web API Server for Klipper",
+      "stars": 1479,
+      "lang": "Python",
+      "topics": [],
+      "pushed": "2026-10-21",
+      "archived": false,
+      "platform": "3D printers",
+      "matched_query": "klipper"
+    }
+  ],
+  "power-storage": [
+    {
+      "full_name": "littlefs-project/littlefs",
+      "url": "https://github.com/littlefs-project/littlefs",
+      "desc": "A little fail-safe filesystem designed for microcontrollers",
+      "stars": 7000,
+      "lang": "C",
+      "topics": [
+        "embedded",
+        "filesystem",
+        "microcontroller"
+      ],
+      "pushed": "2026-10-26",
+      "archived": false,
+      "platform": "ESP",
+      "matched_query": "littlefs"
+    },
+    {
+      "full_name": "thelastoutpostworkshop/ESPConnect",
+      "url": "https://github.com/thelastoutpostworkshop/ESPConnect",
+      "desc": "Zero-installation web application that lets you explore, back up, and manage your ESP32… right from your browser",
+      "stars": 2192,
+      "lang": "TypeScript",
+      "topics": [
+        "backup",
+        "esp32",
+        "fatfs",
+        "flash",
+        "flashing-firmware",
+        "littlefs"
+      ],
+      "pushed": "2026-10-15",
+      "archived": false,
+      "platform": "ESP",
+      "matched_query": "littlefs"
+    },
+    {
+      "full_name": "Lularible/storage-book",
+      "url": "https://github.com/Lularible/storage-book",
+      "desc": "An open-source book on storage technology and file systems. From knot records to Flash physics, from FAT to LittleFS — complete with KnotFS, a teaching-grade log-structured embedded file system (~1770 lines C).",
+      "stars": 587,
+      "lang": "C",
+      "topics": [
+        "book",
+        "c",
+        "data-storage",
+        "embedded-storage",
+        "filesystem",
+        "flash"
+      ],
+      "pushed": "2026-10-27",
+      "archived": false,
+      "platform": "ESP",
+      "matched_query": "littlefs"
+    },
+    {
+      "full_name": "earlephilhower/arduino-littlefs-upload",
+      "url": "https://github.com/earlephilhower/arduino-littlefs-upload",
+      "desc": "Build and uploads LittleFS filesystems for the Arduino-Pico RP2040, RP2350, ESP8266, and ESP32 cores under Arduino IDE 2.2.1 or higher",
+      "stars": 394,
+      "lang": "TypeScript",
+      "topics": [
+        "arduino",
+        "esp32",
+        "esp8266",
+        "littlefs",
+        "pico2",
+        "raspberry-pi-pico"
+      ],
+      "pushed": "2026-01-16",
+      "archived": false,
+      "platform": "ESP",
+      "matched_query": "littlefs"
+    },
+    {
+      "full_name": "HelTecAutomation/ESP32_LoRaWAN",
+      "url": "https://github.com/HelTecAutomation/ESP32_LoRaWAN",
+      "desc": "Transplanted from Semtech LoRaWAN(https://github.com/Lora-net/LoRaMac-node) protocol to \"ESP32 + Arduino\" platform. Use RTC, support deep sleep, only working with ESP32 + LoRa boards made by HelTec Automation(TM). Need a",
+      "stars": 361,
+      "lang": "Assembly",
+      "topics": [],
+      "pushed": "2024-03-22",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "esp32+deep+sleep"
+    },
+    {
+      "full_name": "joltwallet/esp_littlefs",
+      "url": "https://github.com/joltwallet/esp_littlefs",
+      "desc": "LittleFS port for ESP-IDF",
+      "stars": 355,
+      "lang": "C",
+      "topics": [
+        "arduino",
+        "embedded",
+        "esp-idf",
+        "esp32",
+        "filesystem",
+        "littlefs"
+      ],
+      "pushed": "2026-10-21",
+      "archived": false,
+      "platform": "ESP",
+      "matched_query": "littlefs"
+    },
+    {
+      "full_name": "earlephilhower/mklittlefs",
+      "url": "https://github.com/earlephilhower/mklittlefs",
+      "desc": "Utility for creating LittleFS images for upload on the ESP8266 and RP2040 Pico",
+      "stars": 235,
+      "lang": "C++",
+      "topics": [],
+      "pushed": "2026-06-14",
+      "archived": false,
+      "platform": "ESP",
+      "matched_query": "littlefs"
+    },
+    {
+      "full_name": "littlefs-project/littlefs-fuse",
+      "url": "https://github.com/littlefs-project/littlefs-fuse",
+      "desc": "A FUSE wrapper that puts the littlefs in user-space",
+      "stars": 225,
+      "lang": "C",
+      "topics": [
+        "fuse"
+      ],
+      "pushed": "2026-03-25",
+      "archived": false,
+      "platform": "ESP",
+      "matched_query": "littlefs"
+    },
+    {
+      "full_name": "lorol/LITTLEFS",
+      "url": "https://github.com/lorol/LITTLEFS",
+      "desc": "LittleFS library for arduino-esp32",
+      "stars": 202,
+      "lang": "C",
+      "topics": [],
+      "pushed": "2023-03-31",
+      "archived": false,
+      "platform": "ESP",
+      "matched_query": "littlefs"
+    },
+    {
+      "full_name": "xreef/SimpleFTPServer",
+      "url": "https://github.com/xreef/SimpleFTPServer",
+      "desc": "A simple FTP server for Arduino, ArduinoSAMD WiFiNINA, esp8266, esp32, stm32 and Raspberry Pi Pico W",
+      "stars": 181,
+      "lang": "C++",
+      "topics": [
+        "arduino",
+        "esp32",
+        "esp8266",
+        "ethernet",
+        "fat",
+        "ftp"
+      ],
+      "pushed": "2026-11-05",
+      "archived": false,
+      "platform": "ESP",
+      "matched_query": "littlefs"
+    },
+    {
+      "full_name": "adafruit/Adafruit_ImageReader",
+      "url": "https://github.com/adafruit/Adafruit_ImageReader",
+      "desc": "Companion Arduino library for Adafruit_GFX to load images from SD card",
+      "stars": 141,
+      "lang": "C++",
+      "topics": [
+        "arduino-library"
+      ],
+      "pushed": "2026-08-05",
+      "archived": false,
+      "platform": "Arduino",
+      "matched_query": "sd+card+arduino+library"
+    },
+    {
+      "full_name": "microbotsio/CodeCell",
+      "url": "https://github.com/microbotsio/CodeCell",
+      "desc": "CodeCell is a family of tiny boards that help you miniaturize your DIY robots, wearables, and IoT projects with ease! Designed for makers, each CodeCell features an Arduino-compatible ESP32 microcontroller, onboard senso",
+      "stars": 128,
+      "lang": "C",
+      "topics": [],
+      "pushed": "2026-10-15",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "power+management+esp32"
+    },
+    {
+      "full_name": "futureshocked/KLP-5e-ESP32-sensor-board",
+      "url": "https://github.com/futureshocked/KLP-5e-ESP32-sensor-board",
+      "desc": "This project involves the design and development of a custom PCB for an IoT application powered by the ESP32-C3-02 SoC. The board includes integrated power management features using the TP4056 Li-ion battery charger IC, ",
+      "stars": 125,
+      "lang": "C++",
+      "topics": [],
+      "pushed": "2026-08-10",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "power+management+esp32"
+    },
+    {
+      "full_name": "SensorsIot/ESP32-Deep-Sleep",
+      "url": "https://github.com/SensorsIot/ESP32-Deep-Sleep",
+      "desc": "Material for video #149",
+      "stars": 89,
+      "lang": "C++",
+      "topics": [],
+      "pushed": "2020-07-14",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "esp32+deep+sleep"
+    },
+    {
+      "full_name": "jwrw/ESP_EEPROM",
+      "url": "https://github.com/jwrw/ESP_EEPROM",
+      "desc": "An improved EEPROM emulation Arduino library for ESP8266",
+      "stars": 87,
+      "lang": "C++",
+      "topics": [],
+      "pushed": "2023-11-30",
+      "archived": false,
+      "platform": "Arduino",
+      "matched_query": "eeprom+emulation+arduino"
+    },
+    {
+      "full_name": "PRosenb/DeepSleepScheduler",
+      "url": "https://github.com/PRosenb/DeepSleepScheduler",
+      "desc": "DeepSleepScheduler is a lightweight, cooperative task scheduler library with configurable sleep and task supervision. ",
+      "stars": 85,
+      "lang": "C++",
+      "topics": [
+        "arduino",
+        "avr",
+        "easy-to-use",
+        "esp32",
+        "esp8266",
+        "power-consumption"
+      ],
+      "pushed": "2021-06-13",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "esp32+deep+sleep"
+    },
+    {
+      "full_name": "artkeller/ESP32Features",
+      "url": "https://github.com/artkeller/ESP32Features",
+      "desc": "Datasheet-derived comparison of all 14 ESP32 SoC variants (ESP32 → S31): specs, deep sleep, security/PQC readiness, and reasoned multi-chip combinations. Community-maintained, not affiliated with Espressif.",
+      "stars": 55,
+      "lang": "Python",
+      "topics": [
+        "bsi",
+        "chip-comparison",
+        "cra",
+        "cybersecurity",
+        "deep-sleep",
+        "embedded"
+      ],
+      "pushed": "2026-08-16",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "esp32+deep+sleep"
+    },
+    {
+      "full_name": "HwzLoveDz/AXP173-PMIC",
+      "url": "https://github.com/HwzLoveDz/AXP173-PMIC",
+      "desc": "AXP173 Power management IC（AXP173电源管理芯片）",
+      "stars": 49,
+      "lang": "C++",
+      "topics": [
+        "arduino",
+        "esp32",
+        "esp32-s3",
+        "esp8266",
+        "pmic"
+      ],
+      "pushed": "2023-12-28",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "power+management+esp32"
+    },
+    {
+      "full_name": "LucaPizzorno/esphome-touch-remote",
+      "url": "https://github.com/LucaPizzorno/esphome-touch-remote",
+      "desc": "Modular battery-powered touch remote for Home Assistant, built with ESPHome and LVGL on a Freenove ESP32-S3 2.8\" display. Pick your pages (lights, LED, Apple TV, appliances, power) and add as many entities as you like. D",
+      "stars": 48,
+      "lang": null,
+      "topics": [],
+      "pushed": "2026-10-28",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "esp32+deep+sleep"
+    },
+    {
+      "full_name": "aleksei-severin/POV_Wheel_Display",
+      "url": "https://github.com/aleksei-severin/POV_Wheel_Display",
+      "desc": "Persistence of Vision (POV) display based on the ESP32-S3. This project drives a 6-arm LED rotor (SK9822-A LEDs) and features a fully autonomous BLE app for rendering static images and GIF animations, complete with advan",
+      "stars": 48,
+      "lang": "Kotlin",
+      "topics": [],
+      "pushed": "2026-10-24",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "power+management+esp32"
+    },
+    {
+      "full_name": "HwzLoveDz/AXP202-PMIC",
+      "url": "https://github.com/HwzLoveDz/AXP202-PMIC",
+      "desc": "AXP202 Power management IC（AXP202电源管理芯片）",
+      "stars": 47,
+      "lang": "HTML",
+      "topics": [
+        "c",
+        "cpp",
+        "esp32",
+        "esp32-idf",
+        "esp32-s3",
+        "pmic"
+      ],
+      "pushed": "2023-11-30",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "power+management+esp32"
+    },
+    {
+      "full_name": "bhuvanavijayaraj/Smart-Energy-Meter-Management",
+      "url": "https://github.com/bhuvanavijayaraj/Smart-Energy-Meter-Management",
+      "desc": "The Smart Energy Management System uses ESP32 to monitor real-time voltage, current, power, and motion data. Information is displayed on an LCD and remotely via a web dashboard and Blynk. It enables energy optimization, ",
+      "stars": 45,
+      "lang": null,
+      "topics": [],
+      "pushed": "2026-03-03",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "power+management+esp32"
+    },
+    {
+      "full_name": "Lightwell-bg/RGB-P4-Led-Matrix-Clock-based-on-ESP32",
+      "url": "https://github.com/Lightwell-bg/RGB-P4-Led-Matrix-Clock-based-on-ESP32",
+      "desc": "“RGB P4 Led Matrix Clock  based on ESP32” is a multifunctional clock with functions of displaying weather, weather forecast, receiving news feed, displaying any given information at the appointed time. Management is carr",
+      "stars": 44,
+      "lang": "C",
+      "topics": [],
+      "pushed": "2022-07-27",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "power+management+esp32"
+    }
+  ],
+  "security-crypto": [
+    {
+      "full_name": "rednblkx/HomeKey-ESP32",
+      "url": "https://github.com/rednblkx/HomeKey-ESP32",
+      "desc": "ESP32 HomeKit Lock with support for Apple Home Key (reverse-engineered)",
+      "stars": 1117,
+      "lang": "C++",
+      "topics": [
+        "apple",
+        "apple-home-key",
+        "arduino",
+        "ecp",
+        "enhanced-contactless-polling",
+        "home-assistant"
+      ],
+      "pushed": "2026-10-17",
+      "archived": false,
+      "platform": "Arduino",
+      "matched_query": "nfc+arduino"
+    },
+    {
+      "full_name": "ayushsharma82/ElegantOTA",
+      "url": "https://github.com/ayushsharma82/ElegantOTA",
+      "desc": "The original over-the-air update library for wireless microcontrollers (since 2019).",
+      "stars": 1025,
+      "lang": "C++",
+      "topics": [
+        "air",
+        "arduino",
+        "elegantota",
+        "esp32",
+        "esp8266",
+        "espressif"
+      ],
+      "pushed": "2026-09-05",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "ota+update+esp32"
+    },
+    {
+      "full_name": "krauseler/muxcard",
+      "url": "https://github.com/krauseler/muxcard",
+      "desc": "A literal credit-card sized computer with E-Paper display,  ESP32 and NFC.",
+      "stars": 1003,
+      "lang": null,
+      "topics": [
+        "arduino",
+        "e-paper",
+        "esp32",
+        "hacking",
+        "hardware",
+        "nfc"
+      ],
+      "pushed": "2026-05-11",
+      "archived": false,
+      "platform": "Arduino",
+      "matched_query": "nfc+arduino"
+    },
+    {
+      "full_name": "lukeswitz/AntiHunter",
+      "url": "https://github.com/lukeswitz/AntiHunter",
+      "desc": "AntiHunter Perimeter Defense Systems - DIGI Node Firmware",
+      "stars": 725,
+      "lang": "C++",
+      "topics": [
+        "detection",
+        "esp32",
+        "mesh",
+        "privacy",
+        "security"
+      ],
+      "pushed": "2026-10-26",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "esp32+security"
+    },
+    {
+      "full_name": "polhenarejos/pico-hsm",
+      "url": "https://github.com/polhenarejos/pico-hsm",
+      "desc": "Hardware Security Module (HSM) for Raspberry Pico and ESP32",
+      "stars": 592,
+      "lang": "C",
+      "topics": [
+        "cryptography",
+        "firmware",
+        "hsm",
+        "raspberry-pi-pico"
+      ],
+      "pushed": "2026-10-09",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "esp32+security"
+    },
+    {
+      "full_name": "Chrismettal/flipper-zero-backpacks",
+      "url": "https://github.com/Chrismettal/flipper-zero-backpacks",
+      "desc": "Backpack-style addon boards for the Flipper Zero!",
+      "stars": 454,
+      "lang": "C++",
+      "topics": [
+        "addon",
+        "backpack",
+        "board",
+        "devboard",
+        "development",
+        "electronics"
+      ],
+      "pushed": "2026-04-25",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "esp32+security"
+    },
+    {
+      "full_name": "Fishwaldo/esp_ghota",
+      "url": "https://github.com/Fishwaldo/esp_ghota",
+      "desc": "esp32 OTA Component to update firmware from Github Releases",
+      "stars": 448,
+      "lang": "C",
+      "topics": [
+        "esp",
+        "esp-idf",
+        "esp32",
+        "ota",
+        "ota-firmware-updates"
+      ],
+      "pushed": "2024-02-17",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "ota+update+esp32"
+    },
+    {
+      "full_name": "scottchiefbaker/ESP-WebOTA",
+      "url": "https://github.com/scottchiefbaker/ESP-WebOTA",
+      "desc": "Simple web based Over-the-Air (OTA) updates for ESP based projects",
+      "stars": 440,
+      "lang": "C++",
+      "topics": [
+        "arduino-library",
+        "esp",
+        "esp32",
+        "esp32-arduino",
+        "esp8266",
+        "esp8266-arduino"
+      ],
+      "pushed": "2026-06-28",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "ota+update+esp32"
+    },
+    {
+      "full_name": "ESP32-Musings/OTA_update_STM32_using_ESP32",
+      "url": "https://github.com/ESP32-Musings/OTA_update_STM32_using_ESP32",
+      "desc": "Program STM32Fxx MCUs Over-the-Air using ESP32",
+      "stars": 436,
+      "lang": "Python",
+      "topics": [
+        "bluepill",
+        "esp32",
+        "firmware-update",
+        "ota",
+        "ota-firmware-updates",
+        "programming"
+      ],
+      "pushed": "2026-07-21",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "ota+update+esp32"
+    },
+    {
+      "full_name": "chrisjoyce911/esp32FOTA",
+      "url": "https://github.com/chrisjoyce911/esp32FOTA",
+      "desc": "Experiments in firmware OTA updates for ESP32 dev boards",
+      "stars": 422,
+      "lang": "C++",
+      "topics": [
+        "arduino",
+        "esp32",
+        "esp32-arduino",
+        "firmware-updates",
+        "ota",
+        "ota-firmware-updates"
+      ],
+      "pushed": "2026-08-08",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "ota+update+esp32"
+    },
+    {
+      "full_name": "DavyLandman/AESLib",
+      "url": "https://github.com/DavyLandman/AESLib",
+      "desc": "Arduino Library for AES Encryption (source based on avr-crypto-lib)",
+      "stars": 366,
+      "lang": "C",
+      "topics": [],
+      "pushed": "2022-03-11",
+      "archived": false,
+      "platform": "Arduino",
+      "matched_query": "arduino+encryption+library"
+    },
+    {
+      "full_name": "don/NDEF",
+      "url": "https://github.com/don/NDEF",
+      "desc": "NDEF Library for Arduino. Read and Write NDEF Messages to NFC tags with Arduino.",
+      "stars": 313,
+      "lang": "C++",
+      "topics": [],
+      "pushed": "2022-10-13",
+      "archived": false,
+      "platform": "Arduino",
+      "matched_query": "nfc+arduino"
+    },
+    {
+      "full_name": "fbiego/ESP32_BLE_OTA_Arduino",
+      "url": "https://github.com/fbiego/ESP32_BLE_OTA_Arduino",
+      "desc": "OTA update on ESP32 via BLE",
+      "stars": 279,
+      "lang": "C++",
+      "topics": [
+        "android",
+        "arduino",
+        "ble",
+        "bluetooth-le",
+        "bluetooth-low-energy",
+        "esp32"
+      ],
+      "pushed": "2024-08-12",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "ota+update+esp32"
+    },
+    {
+      "full_name": "MatthewKuKanich/ChimeraBLE",
+      "url": "https://github.com/MatthewKuKanich/ChimeraBLE",
+      "desc": "Advanced BLE security & reverse-engineering tool for ESP32: scan, GATT dump, HID decode, clone/emulate, foxhunt, and MITM - via serial CLI or Cardputer UI.",
+      "stars": 271,
+      "lang": "C++",
+      "topics": [],
+      "pushed": "2026-07-07",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "esp32+security"
+    },
+    {
+      "full_name": "ElectronicCats/HunterCatNFC",
+      "url": "https://github.com/ElectronicCats/HunterCatNFC",
+      "desc": "The Hunter Cat NFC is the latest security tool for contactless (Near Field Communication) used in access control, identification and bank cards. Specially created to identify NFC readers and sniffing tools, with this too",
+      "stars": 234,
+      "lang": "C++",
+      "topics": [
+        "arduino",
+        "emulation",
+        "huntercat",
+        "nfc",
+        "nfc-card-reader",
+        "nfc-emulation"
+      ],
+      "pushed": "2024-04-08",
+      "archived": false,
+      "platform": "Arduino",
+      "matched_query": "nfc+arduino"
+    },
+    {
+      "full_name": "D3CRYPT-1/Infiltra-Firmware",
+      "url": "https://github.com/D3CRYPT-1/Infiltra-Firmware",
+      "desc": "Infiltra Firmware is an open-source firmware for wireless security testing, network analysis, and hardware hacking. FLASH IT BELOW USING OUR WEB FLAHSER!",
+      "stars": 207,
+      "lang": "C++",
+      "topics": [
+        "deauther",
+        "deauther-5g",
+        "discord",
+        "esp32",
+        "esp8266",
+        "firmware"
+      ],
+      "pushed": "2026-03-09",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "esp32+security"
+    },
+    {
+      "full_name": "ElectronicCats/BomberCat",
+      "url": "https://github.com/ElectronicCats/BomberCat",
+      "desc": "BomberCat is the latest security tool that combines the most common card technologies: NFC technology (Near Field Communication) and magnetic stripe technology used in access control, identification, and banking cards. S",
+      "stars": 186,
+      "lang": "HTML",
+      "topics": [
+        "arduino",
+        "ble",
+        "bluetooth",
+        "magspoof",
+        "nfc",
+        "nfc-card-reader"
+      ],
+      "pushed": "2026-10-12",
+      "archived": false,
+      "platform": "Arduino",
+      "matched_query": "nfc+arduino"
+    },
+    {
+      "full_name": "classycodeoss/esp32-ota-https",
+      "url": "https://github.com/classycodeoss/esp32-ota-https",
+      "desc": "Secure over-the-air updates for the ESP32 platform",
+      "stars": 165,
+      "lang": "C",
+      "topics": [
+        "esp32",
+        "firmware"
+      ],
+      "pushed": "2018-12-18",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "ota+update+esp32"
+    },
+    {
+      "full_name": "giovi321/smalltv-mod",
+      "url": "https://github.com/giovi321/smalltv-mod",
+      "desc": "Custom firmware for the GeekMagic SmallTV that replaces the stock apps with five modes: a stock/crypto ticker, a Claude usage meter, a live plane radar, a Home Assistant driven display and a clock with themes. Also, you ",
+      "stars": 154,
+      "lang": "C++",
+      "topics": [],
+      "pushed": "2026-11-05",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "ota+update+esp32"
+    },
+    {
+      "full_name": "turfptax/ugit",
+      "url": "https://github.com/turfptax/ugit",
+      "desc": "Micropython OTA update from github ",
+      "stars": 145,
+      "lang": "Python",
+      "topics": [
+        "esp32",
+        "firmware-update",
+        "github",
+        "iot",
+        "micropython",
+        "ota"
+      ],
+      "pushed": "2026-11-04",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "ota+update+esp32"
+    },
+    {
+      "full_name": "XaviTorello/mifare-classic-toolkit",
+      "url": "https://github.com/XaviTorello/mifare-classic-toolkit",
+      "desc": "RFID / NFC :: Mifare Classic 1k info and tools",
+      "stars": 116,
+      "lang": "Arduino",
+      "topics": [
+        "arduino",
+        "card",
+        "mifare",
+        "mifare-classic",
+        "nfc",
+        "rfc"
+      ],
+      "pushed": "2016-03-14",
+      "archived": false,
+      "platform": "Arduino",
+      "matched_query": "nfc+arduino"
+    },
+    {
+      "full_name": "soonuse/pn532-lib",
+      "url": "https://github.com/soonuse/pn532-lib",
+      "desc": "PN532 NFC Library for Raspberry Pi, STM32, Arduino",
+      "stars": 107,
+      "lang": "C",
+      "topics": [],
+      "pushed": "2020-11-10",
+      "archived": false,
+      "platform": "Arduino",
+      "matched_query": "nfc+arduino"
+    },
+    {
+      "full_name": "abderraouf-adjal/ArduinoSpritzCipher",
+      "url": "https://github.com/abderraouf-adjal/ArduinoSpritzCipher",
+      "desc": "Spritz encryption system portable C library, CSPRNG, cryptographic hash and MAC functions, symmetric-key data encryption, and general-purpose functions.  It's also an Arduino library.",
+      "stars": 76,
+      "lang": "C",
+      "topics": [
+        "algorithms",
+        "arduino",
+        "arduino-library",
+        "c",
+        "crypto",
+        "crypto-library"
+      ],
+      "pushed": "2020-08-20",
+      "archived": false,
+      "platform": "Arduino",
+      "matched_query": "arduino+encryption+library"
+    },
+    {
+      "full_name": "unsurv/unsurv-offline",
+      "url": "https://github.com/unsurv/unsurv-offline",
+      "desc": "Offline portable GNSS device based on the ESP32",
+      "stars": 72,
+      "lang": "C++",
+      "topics": [
+        "arduino",
+        "gnss",
+        "nfc"
+      ],
+      "pushed": "2026-07-06",
+      "archived": false,
+      "platform": "Arduino",
+      "matched_query": "nfc+arduino"
+    },
+    {
+      "full_name": "esp-rs/mbedtls-rs",
+      "url": "https://github.com/esp-rs/mbedtls-rs",
+      "desc": "Rust wrappers for MbedTLS",
+      "stars": 58,
+      "lang": "Rust",
+      "topics": [
+        "bare-metal",
+        "esp32",
+        "rust",
+        "tls"
+      ],
+      "pushed": "2026-10-13",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "esp32+tls+mbedtls"
+    }
+  ],
+  "games-graphics": [
+    {
+      "full_name": "adafruit/Adafruit-GFX-Library",
+      "url": "https://github.com/adafruit/Adafruit-GFX-Library",
+      "desc": "Adafruit GFX graphics core Arduino library, this is the 'core' class that all our other graphics libraries derive from",
+      "stars": 2868,
+      "lang": "C",
+      "topics": [
+        "arduino-library"
+      ],
+      "pushed": "2026-11-05",
+      "archived": false,
+      "platform": "Arduino",
+      "matched_query": "arduino+graphics+library"
+    },
+    {
+      "full_name": "lemmingDev/ESP32-BLE-Gamepad",
+      "url": "https://github.com/lemmingDev/ESP32-BLE-Gamepad",
+      "desc": "Bluetooth LE Gamepad library for the ESP32",
+      "stars": 1610,
+      "lang": "C++",
+      "topics": [],
+      "pushed": "2026-09-21",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "esp32+game"
+    },
+    {
+      "full_name": "ducalex/retro-go",
+      "url": "https://github.com/ducalex/retro-go",
+      "desc": "Retro emulation for the ODROID-GO and other ESP32 devices",
+      "stars": 1416,
+      "lang": "C",
+      "topics": [
+        "doom",
+        "emulator",
+        "esp32",
+        "esp32s3",
+        "gameboy",
+        "gamegear"
+      ],
+      "pushed": "2026-01-19",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "esp32+emulator"
+    },
+    {
+      "full_name": "olikraus/u8glib",
+      "url": "https://github.com/olikraus/u8glib",
+      "desc": "Arduino Monochrom Graphics Library for LCDs and OLEDs",
+      "stars": 1313,
+      "lang": "C",
+      "topics": [],
+      "pushed": "2026-05-19",
+      "archived": false,
+      "platform": "Arduino",
+      "matched_query": "arduino+graphics+library"
+    },
+    {
+      "full_name": "rossumur/esp_8_bit",
+      "url": "https://github.com/rossumur/esp_8_bit",
+      "desc": "Atari 8 bit computers, NES and SMS game consoles on your TV with nothing more than a ESP32 and a sense of nostalgia",
+      "stars": 1210,
+      "lang": "C",
+      "topics": [],
+      "pushed": "2023-02-17",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "esp32+game"
+    },
+    {
+      "full_name": "mikroverk/esp32sim",
+      "url": "https://github.com/mikroverk/esp32sim",
+      "desc": "Open-source ESP32 emulator. Run real firmware locally or in your browser — no hardware, no cloud, no subscription.",
+      "stars": 1076,
+      "lang": "Rust",
+      "topics": [],
+      "pushed": "2026-11-02",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "esp32+emulator"
+    },
+    {
+      "full_name": "hchunhui/tiny386",
+      "url": "https://github.com/hchunhui/tiny386",
+      "desc": "tiny 386 PC emulator; running win9x on esp32",
+      "stars": 755,
+      "lang": "C",
+      "topics": [
+        "emulator",
+        "esp32",
+        "x86"
+      ],
+      "pushed": "2026-11-05",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "esp32+emulator"
+    },
+    {
+      "full_name": "retro-esp32/RetroESP32",
+      "url": "https://github.com/retro-esp32/RetroESP32",
+      "desc": "Retro ESP32 is a turbo charged Odroid Go Launcher, Emulator and ROM Manager",
+      "stars": 744,
+      "lang": "C",
+      "topics": [
+        "arduino",
+        "education",
+        "emulation",
+        "emulator",
+        "esp32",
+        "espressif"
+      ],
+      "pushed": "2024-07-31",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "esp32+emulator"
+    },
+    {
+      "full_name": "lcgamboa/picsimlab",
+      "url": "https://github.com/lcgamboa/picsimlab",
+      "desc": "PICSimLab - Programmable IC Simulator Laboratory ⚠️ Please note: The official distribution of the PICSimLab simulator binaries is available on github.com and SourceForge.net. Be cautious of unofficial sites, such as pics",
+      "stars": 680,
+      "lang": "C++",
+      "topics": [
+        "arduino",
+        "avr",
+        "education",
+        "emulator",
+        "esp32",
+        "esp32c3"
+      ],
+      "pushed": "2026-10-12",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "esp32+emulator"
+    },
+    {
+      "full_name": "espressif/esp32-nesemu",
+      "url": "https://github.com/espressif/esp32-nesemu",
+      "desc": "Proof-of-concept NES emulator for the ESP32",
+      "stars": 638,
+      "lang": "C",
+      "topics": [],
+      "pushed": "2023-06-06",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "esp32+emulator"
+    },
+    {
+      "full_name": "Shim06/Anemoia-ESP32",
+      "url": "https://github.com/Shim06/Anemoia-ESP32",
+      "desc": "A performant NES emulator for the ESP32",
+      "stars": 618,
+      "lang": "C++",
+      "topics": [
+        "cpp",
+        "embedded",
+        "embedded-systems",
+        "emulator",
+        "esp32",
+        "nes"
+      ],
+      "pushed": "2026-09-06",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "esp32+emulator"
+    },
+    {
+      "full_name": "pebri86/esplay-retro-emulation",
+      "url": "https://github.com/pebri86/esplay-retro-emulation",
+      "desc": "Retro Emulation Collection for ESPlay Hardware, an ESP32 based game console",
+      "stars": 530,
+      "lang": "C",
+      "topics": [
+        "console",
+        "emulator",
+        "esp32",
+        "gameboy",
+        "gamegear",
+        "gb"
+      ],
+      "pushed": "2026-01-08",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "esp32+game"
+    },
+    {
+      "full_name": "cifertech/TamaFi",
+      "url": "https://github.com/cifertech/TamaFi",
+      "desc": "TamaFi is an open-source, WiFi-enabled virtual pet project built with an ESP32-s3",
+      "stars": 476,
+      "lang": "C",
+      "topics": [
+        "esp32",
+        "game",
+        "handheld-devices",
+        "retro",
+        "tamagotchi",
+        "virtual-pet"
+      ],
+      "pushed": "2026-06-06",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "esp32+game"
+    },
+    {
+      "full_name": "mofosyne/arduino-gameboy-printer-emulator",
+      "url": "https://github.com/mofosyne/arduino-gameboy-printer-emulator",
+      "desc": "Code to emulate a gameboy printer via the gameboy link cable",
+      "stars": 366,
+      "lang": "C++",
+      "topics": [],
+      "pushed": "2026-05-13",
+      "archived": false,
+      "platform": "Arduino",
+      "matched_query": "gameboy+arduino"
+    },
+    {
+      "full_name": "r00li/CarCluster",
+      "url": "https://github.com/r00li/CarCluster",
+      "desc": "Control car instrument clusters from your computer for gaming or other purposes using ESP32",
+      "stars": 278,
+      "lang": "C",
+      "topics": [],
+      "pushed": "2026-10-23",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "esp32+game"
+    },
+    {
+      "full_name": "EstebanFuentealba/MALVEKE-Flipper-Zero",
+      "url": "https://github.com/EstebanFuentealba/MALVEKE-Flipper-Zero",
+      "desc": "GAME BOY Tools for Flipper Zero. The perfect companion for your Flipper Zero. Equipped with ESP32-S2 for WiFi. MALVEKE allows you to connect all GAME BOY peripherals and additional accessories such as NRF24, CC1101, and ",
+      "stars": 277,
+      "lang": "C",
+      "topics": [],
+      "pushed": "2025-05-20",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "esp32+game"
+    },
+    {
+      "full_name": "garagetinkering/Video_Game_Mini_Maps",
+      "url": "https://github.com/garagetinkering/Video_Game_Mini_Maps",
+      "desc": "A small app for the ESP32-P4 that allows you to display local live (offline) mapping",
+      "stars": 266,
+      "lang": "C",
+      "topics": [],
+      "pushed": "2025-12-05",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "esp32+game"
+    },
+    {
+      "full_name": "pebri86/esplay_micro_hardware",
+      "url": "https://github.com/pebri86/esplay_micro_hardware",
+      "desc": "Micro version of esplay hardware, ESP32 based gaming console",
+      "stars": 261,
+      "lang": "Prolog",
+      "topics": [
+        "console",
+        "development",
+        "esp32",
+        "esplay",
+        "game",
+        "ili9341"
+      ],
+      "pushed": "2019-11-26",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "esp32+game"
+    },
+    {
+      "full_name": "lualiliu/esp32-gameboy",
+      "url": "https://github.com/lualiliu/esp32-gameboy",
+      "desc": "ESP32 Gameboy emulation based on Arduino",
+      "stars": 247,
+      "lang": "C",
+      "topics": [],
+      "pushed": "2025-12-15",
+      "archived": false,
+      "platform": "Arduino",
+      "matched_query": "gameboy+arduino"
+    },
+    {
+      "full_name": "drhelius/arduinogameboy",
+      "url": "https://github.com/drhelius/arduinogameboy",
+      "desc": "Arduino based Game Boy cartridge reader and writer. It can dump ROM and RAM to SD card.",
+      "stars": 171,
+      "lang": "C++",
+      "topics": [
+        "arduino",
+        "cartridge",
+        "game-boy",
+        "gameboy",
+        "sd-card"
+      ],
+      "pushed": "2023-12-13",
+      "archived": false,
+      "platform": "Arduino",
+      "matched_query": "gameboy+arduino"
+    },
+    {
+      "full_name": "GoergPflug/AttinyStreamGfxApi",
+      "url": "https://github.com/GoergPflug/AttinyStreamGfxApi",
+      "desc": "Fast Graphics Library for Attiny85 and SSD1306 over I2c",
+      "stars": 159,
+      "lang": "C",
+      "topics": [
+        "3d",
+        "arduino",
+        "atmega",
+        "attiny",
+        "graphics",
+        "graphics-l"
+      ],
+      "pushed": "2023-01-08",
+      "archived": false,
+      "platform": "Arduino",
+      "matched_query": "arduino+graphics+library"
+    },
+    {
+      "full_name": "RudolphRiedel/FT800-FT813",
+      "url": "https://github.com/RudolphRiedel/FT800-FT813",
+      "desc": "Multi-Platform C code Library for EVE graphics controllers from FTDI / Bridgetek (FT810, FT811, FT812, FT813, BT815, BT816, BT817, BT818)",
+      "stars": 152,
+      "lang": "C",
+      "topics": [
+        "arduino",
+        "atsam",
+        "avr",
+        "bt815",
+        "bt817",
+        "bt818"
+      ],
+      "pushed": "2026-07-18",
+      "archived": false,
+      "platform": "Arduino",
+      "matched_query": "arduino+graphics+library"
+    }
+  ],
+  "weather-environment": [
+    {
+      "full_name": "mfactory-osaka/ESPTimeCast",
+      "url": "https://github.com/mfactory-osaka/ESPTimeCast",
+      "desc": "ESPTimeCast™ is a sleek, WiFi-connected LED matrix clock and weather display built on ESP8266/ESP32 and MAX7219. It combines real-time NTP time sync, live OpenWeatherMap updates, and a modern web-based configuration inte",
+      "stars": 1560,
+      "lang": "C++",
+      "topics": [
+        "arduino",
+        "clock",
+        "esp32",
+        "esp8266",
+        "max7219",
+        "weather-station"
+      ],
+      "pushed": "2026-11-02",
+      "archived": false,
+      "platform": "Cross-platform",
+      "matched_query": "topic:weather-station"
+    },
+    {
+      "full_name": "ThingPulse/esp8266-weather-station",
+      "url": "https://github.com/ThingPulse/esp8266-weather-station",
+      "desc": "ESP8266 Weather Station library supporting OpenWeatherMap, Aeris and other sources",
+      "stars": 1147,
+      "lang": "C++",
+      "topics": [
+        "arduino",
+        "arduino-library",
+        "esp8266",
+        "openweathermap",
+        "openweathermap-api",
+        "openweathermap-client"
+      ],
+      "pushed": "2024-09-19",
+      "archived": false,
+      "platform": "ESP8266",
+      "matched_query": "weather+station+esp8266"
+    },
+    {
+      "full_name": "meteostat/meteostat",
+      "url": "https://github.com/meteostat/meteostat",
+      "desc": "Access and analyze historical weather and climate data with Python.",
+      "stars": 666,
+      "lang": "Python",
+      "topics": [
+        "climate",
+        "climate-change",
+        "climate-data",
+        "data-science",
+        "meteostat",
+        "open-data"
+      ],
+      "pushed": "2026-11-04",
+      "archived": false,
+      "platform": "Cross-platform",
+      "matched_query": "topic:weather-station"
+    },
+    {
+      "full_name": "vbguyny/ws4kp",
+      "url": "https://github.com/vbguyny/ws4kp",
+      "desc": "WeatherStar 4000+",
+      "stars": 596,
+      "lang": "JavaScript",
+      "topics": [
+        "noaa",
+        "radar",
+        "travel",
+        "weather",
+        "weather-station"
+      ],
+      "pushed": "2026-11-03",
+      "archived": false,
+      "platform": "Cross-platform",
+      "matched_query": "topic:weather-station"
+    },
+    {
+      "full_name": "n0bel/PiClock",
+      "url": "https://github.com/n0bel/PiClock",
+      "desc": "A Fancy Clock built around a monitor and a Raspberry Pi",
+      "stars": 588,
+      "lang": "Python",
+      "topics": [
+        "clock",
+        "piclock",
+        "pyqt4",
+        "python2",
+        "radar",
+        "raspberry-pi"
+      ],
+      "pushed": "2026-08-28",
+      "archived": false,
+      "platform": "Cross-platform",
+      "matched_query": "topic:weather-station"
+    },
+    {
+      "full_name": "earthobservations/wetterdienst",
+      "url": "https://github.com/earthobservations/wetterdienst",
+      "desc": "Open weather data for humans.",
+      "stars": 455,
+      "lang": "Python",
+      "topics": [
+        "aemet",
+        "deutscher-wetterdienst",
+        "dmi",
+        "dwd",
+        "eccc",
+        "hydrology"
+      ],
+      "pushed": "2026-11-05",
+      "archived": false,
+      "platform": "Cross-platform",
+      "matched_query": "topic:weather-station"
+    },
+    {
+      "full_name": "hugokernel/esphome-weather-station",
+      "url": "https://github.com/hugokernel/esphome-weather-station",
+      "desc": "ESPHome version of Elektor weather station v2",
+      "stars": 344,
+      "lang": "OpenSCAD",
+      "topics": [
+        "elektor-magazine",
+        "esp32",
+        "esphome",
+        "home-assistant",
+        "homeassistant",
+        "precipitation"
+      ],
+      "pushed": "2022-07-13",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "weather+station+esp32"
+    },
+    {
+      "full_name": "naofireblade/homebridge-weather-plus",
+      "url": "https://github.com/naofireblade/homebridge-weather-plus",
+      "desc": "A comprehensive weather plugin for homebridge.",
+      "stars": 329,
+      "lang": "JavaScript",
+      "topics": [
+        "homebridge",
+        "homebridge-plugin",
+        "weather",
+        "weather-station"
+      ],
+      "pushed": "2026-10-01",
+      "archived": false,
+      "platform": "Cross-platform",
+      "matched_query": "topic:weather-station"
+    },
+    {
+      "full_name": "poblabs/weewx-belchertown",
+      "url": "https://github.com/poblabs/weewx-belchertown",
+      "desc": "A clean and modern weewx skin with real time streaming updates, forecast data and interactive charts. View it in action at BelchertownWeather.com",
+      "stars": 224,
+      "lang": "Python",
+      "topics": [
+        "chart",
+        "darksky-api",
+        "earthquake-data",
+        "mqtt",
+        "skin",
+        "theme"
+      ],
+      "pushed": "2026-11-02",
+      "archived": false,
+      "platform": "Cross-platform",
+      "matched_query": "topic:weather-station"
+    },
+    {
+      "full_name": "bruxy70/Home-Assistant-ESPHome-Weather-Station",
+      "url": "https://github.com/bruxy70/Home-Assistant-ESPHome-Weather-Station",
+      "desc": "Nextion display with ESP8266 microcontroller (Wemos D1 mini) showing Home Assistant temperature sensors and weather forecast",
+      "stars": 186,
+      "lang": null,
+      "topics": [],
+      "pushed": "2021-08-09",
+      "archived": false,
+      "platform": "ESP8266",
+      "matched_query": "weather+station+esp8266"
+    },
+    {
+      "full_name": "duck531a98/esp8266-weather-station-epaper",
+      "url": "https://github.com/duck531a98/esp8266-weather-station-epaper",
+      "desc": "use esp8266 to show weather forecast on 2.9inch e-paper",
+      "stars": 183,
+      "lang": "C++",
+      "topics": [],
+      "pushed": "2026-08-17",
+      "archived": false,
+      "platform": "ESP8266",
+      "matched_query": "weather+station+esp8266"
+    },
+    {
+      "full_name": "TheAustrian/Wemos-D1-Mini-BME280-Weather-Station",
+      "url": "https://github.com/TheAustrian/Wemos-D1-Mini-BME280-Weather-Station",
+      "desc": "Simple Weather Station Code using an ESP8266 and a BME280 sensor. Data is handled via PHP and stored in a MySQL database",
+      "stars": 161,
+      "lang": "JavaScript",
+      "topics": [],
+      "pushed": "2018-12-30",
+      "archived": false,
+      "platform": "ESP8266",
+      "matched_query": "weather+station+esp8266"
+    },
+    {
+      "full_name": "byte4geek/weatherstation",
+      "url": "https://github.com/byte4geek/weatherstation",
+      "desc": "A feature-rich, high-precision ESP8266-based Smart Weather Station with a modern responsive Web Dashboard, dynamic sensor detection, customizable moving-average filters, Home Assistant MQTT Auto-Discovery, full backup/re",
+      "stars": 154,
+      "lang": "C++",
+      "topics": [
+        "arduino",
+        "diy",
+        "diy-project",
+        "diy-projects",
+        "esp8266",
+        "nodemcu"
+      ],
+      "pushed": "2026-09-15",
+      "archived": false,
+      "platform": "ESP8266",
+      "matched_query": "weather+station+esp8266"
+    },
+    {
+      "full_name": "3KUdelta/Solar_WiFi_Weather_Station",
+      "url": "https://github.com/3KUdelta/Solar_WiFi_Weather_Station",
+      "desc": "Based on the work of Open Green Energy: First solar Zambretti Forecaster",
+      "stars": 117,
+      "lang": "C++",
+      "topics": [
+        "blynk",
+        "esp8266",
+        "weather-station",
+        "zambretti",
+        "zambretti-forecaster"
+      ],
+      "pushed": "2026-10-06",
+      "archived": false,
+      "platform": "ESP8266",
+      "matched_query": "weather+station+esp8266"
+    },
+    {
+      "full_name": "NC22/Volna42BW",
+      "url": "https://github.com/NC22/Volna42BW",
+      "desc": "Weather station Volna 42BW, Arduino Framework, ESP8266 or ESP32",
+      "stars": 93,
+      "lang": "C",
+      "topics": [
+        "arduino",
+        "domoticz",
+        "eink",
+        "einkdisplay",
+        "esp32",
+        "esp8266"
+      ],
+      "pushed": "2026-08-05",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "weather+station+esp32"
+    },
+    {
+      "full_name": "artem-smotrakov/esp32-weather-google-sheets",
+      "url": "https://github.com/artem-smotrakov/esp32-weather-google-sheets",
+      "desc": "Weather station based on ESP32 and MicroPython with sending data to Google Sheets",
+      "stars": 74,
+      "lang": "Python",
+      "topics": [
+        "dht22",
+        "esp32",
+        "google-sheets",
+        "iot",
+        "jwt",
+        "micropython"
+      ],
+      "pushed": "2021-10-18",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "weather+station+esp32"
+    },
+    {
+      "full_name": "HomeKidd/ESP8266-HomeKit-Weather-Station-BME280-Elgato-Eve",
+      "url": "https://github.com/HomeKidd/ESP8266-HomeKit-Weather-Station-BME280-Elgato-Eve",
+      "desc": "ESP8266 based  HomeKit Weather Station using Bosch BME280 temperature, humidity, barometric pressure sensor🔥 🌡",
+      "stars": 73,
+      "lang": null,
+      "topics": [
+        "esp-homekit",
+        "esp-homekit-demo",
+        "esp-homekit-sonoff",
+        "esp-open-rtos",
+        "esp8266",
+        "esp8266-arduino"
+      ],
+      "pushed": "2021-04-09",
+      "archived": false,
+      "platform": "ESP8266",
+      "matched_query": "weather+station+esp8266"
+    },
+    {
+      "full_name": "mayaculpa/hapi",
+      "url": "https://github.com/mayaculpa/hapi",
+      "desc": "Hydro­ponic Automa­tion Plat­form Ini­tia­tive (HAPI)",
+      "stars": 70,
+      "lang": "Python",
+      "topics": [
+        "arduino",
+        "automation",
+        "esp32",
+        "esp8266",
+        "food",
+        "hydroponics"
+      ],
+      "pushed": "2020-03-12",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "hydroponics+esp32"
+    },
+    {
+      "full_name": "neptune2/esp8266-weather-station-oled-DST",
+      "url": "https://github.com/neptune2/esp8266-weather-station-oled-DST",
+      "desc": "Customized version of Squix78 ESP8266 OLED Weather Station w/ Auto Daylight Saving Time Adjust and other mods using SSD1306 OLED. See https://github.com/squix78/esp8266-weather-station for original code and library ",
+      "stars": 65,
+      "lang": "Objective-C",
+      "topics": [],
+      "pushed": "2017-05-03",
+      "archived": false,
+      "platform": "ESP8266",
+      "matched_query": "weather+station+esp8266"
+    },
+    {
+      "full_name": "kndnsow/Roomy",
+      "url": "https://github.com/kndnsow/Roomy",
+      "desc": "A simple but multi controller IOT project with ESP8266 for Aquarium Light and Filter/oxygenator control.",
+      "stars": 57,
+      "lang": "C++",
+      "topics": [],
+      "pushed": "2024-04-28",
+      "archived": false,
+      "platform": "ESP8266",
+      "matched_query": "aquarium+esp8266"
+    },
+    {
+      "full_name": "AndroidCrypto/ESP32_CYD_Weather_Station_With_Forecast",
+      "url": "https://github.com/AndroidCrypto/ESP32_CYD_Weather_Station_With_Forecast",
+      "desc": "A internet based Weather Station is running on a Cheap Yellow Display (CYD) device. The data is retrieved from OpenWeatherMap.org for an individual location.",
+      "stars": 53,
+      "lang": "C++",
+      "topics": [
+        "arduino",
+        "cheap-yellow-display",
+        "cyd",
+        "esp32",
+        "ili9341",
+        "openweathermap"
+      ],
+      "pushed": "2025-08-05",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "weather+station+esp32"
+    },
+    {
+      "full_name": "ThingPulse/esp32-weather-station-touch",
+      "url": "https://github.com/ThingPulse/esp32-weather-station-touch",
+      "desc": "Sample application for the ThingPulse ESP32 Color Kit Grande",
+      "stars": 51,
+      "lang": "C",
+      "topics": [
+        "arduino",
+        "esp32",
+        "openweathermap",
+        "weather",
+        "weather-station",
+        "wifi"
+      ],
+      "pushed": "2025-11-20",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "weather+station+esp32"
+    },
+    {
+      "full_name": "alvarowolfx/weather-station-gcp-mongoose-os",
+      "url": "https://github.com/alvarowolfx/weather-station-gcp-mongoose-os",
+      "desc": "A Weather station made with an ESP32, sending data through Google Cloud IoT Core and storing in BigQuery",
+      "stars": 49,
+      "lang": "JavaScript",
+      "topics": [
+        "bigquery",
+        "cloud-iot",
+        "firebase",
+        "google-cloud",
+        "iot",
+        "iot-core"
+      ],
+      "pushed": "2018-08-01",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "weather+station+esp32"
+    },
+    {
+      "full_name": "educ8s/Arduino-Color-E-Paper-Weather-Station",
+      "url": "https://github.com/educ8s/Arduino-Color-E-Paper-Weather-Station",
+      "desc": "ESP32 Arduino Color E Paper Weather Station project",
+      "stars": 47,
+      "lang": "C",
+      "topics": [
+        "arduino",
+        "arduino-project",
+        "bmp180",
+        "dht22",
+        "dht22sensor",
+        "diy-electronics"
+      ],
+      "pushed": "2023-12-22",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "weather+station+esp32"
+    },
+    {
+      "full_name": "vladkorotnev/plasma-clock",
+      "url": "https://github.com/vladkorotnev/plasma-clock",
+      "desc": "Plasma dot matrix display based wall clock/weather station/etc, powered by an ESP32",
+      "stars": 41,
+      "lang": "C++",
+      "topics": [
+        "esp32",
+        "esp32-arduino",
+        "nixie",
+        "plasma-display",
+        "weather-monitor",
+        "weather-station"
+      ],
+      "pushed": "2026-10-12",
+      "archived": false,
+      "platform": "ESP32",
+      "matched_query": "weather+station+esp32"
+    }
+  ],
+  "awesome-collections": [
+    {
+      "full_name": "nhivp/Awesome-Embedded",
+      "url": "https://github.com/nhivp/Awesome-Embedded",
+      "desc": "A curated list of awesome embedded programming.",
+      "stars": 9320,
+      "lang": null,
+      "topics": [
+        "ai",
+        "autosar",
+        "awesome",
+        "beaglebone",
+        "bootloader",
+        "embedded"
+      ],
+      "pushed": "2026-10-10",
+      "archived": false,
+      "platform": "meta",
+      "matched_query": "awesome+stm32"
+    },
+    {
+      "full_name": "rust-embedded/awesome-embedded-rust",
+      "url": "https://github.com/rust-embedded/awesome-embedded-rust",
+      "desc": "Curated list of resources for Embedded and Low-level development in the Rust programming language",
+      "stars": 8181,
+      "lang": null,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "embedded",
+        "embedded-systems",
+        "libraries",
+        "rust"
+      ],
+      "pushed": "2026-10-27",
+      "archived": false,
+      "platform": "meta",
+      "matched_query": "awesome+embedded"
+    },
+    {
+      "full_name": "alphaSeclab/awesome-reverse-engineering",
+      "url": "https://github.com/alphaSeclab/awesome-reverse-engineering",
+      "desc": "Reverse Engineering Resources About All Platforms(Windows/Linux/macOS/Android/iOS/IoT) And Every Aspect! (More than 3500 open source tools and 2300 posts&videos)",
+      "stars": 5193,
+      "lang": null,
+      "topics": [
+        "android-security",
+        "angr",
+        "apk-analysis",
+        "binaryninja",
+        "binnavi",
+        "cuckoo"
+      ],
+      "pushed": "2021-09-01",
+      "archived": false,
+      "platform": "meta",
+      "matched_query": "awesome+iot"
+    },
+    {
+      "full_name": "phodal/awesome-iot",
+      "url": "https://github.com/phodal/awesome-iot",
+      "desc": "Awesome IoT. A collaborative list of great resources about IoT Framework, Library,  OS, Platform",
+      "stars": 4637,
+      "lang": "Python",
+      "topics": [
+        "awesome-iot",
+        "awesome-list",
+        "azure-iot",
+        "iot",
+        "iot-application",
+        "iot-cloud"
+      ],
+      "pushed": "2026-11-02",
+      "archived": false,
+      "platform": "meta",
+      "matched_query": "awesome+iot"
+    },
+    {
+      "full_name": "HQarroum/awesome-iot",
+      "url": "https://github.com/HQarroum/awesome-iot",
+      "desc": "🤖 A curated list of awesome Internet of Things projects and resources.",
+      "stars": 4548,
+      "lang": null,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "embedded-systems",
+        "hacktoberfest",
+        "hardware",
+        "internet-of-things"
+      ],
+      "pushed": "2026-10-31",
+      "archived": false,
+      "platform": "meta",
+      "matched_query": "awesome+iot"
+    },
+    {
+      "full_name": "iDoka/awesome-canbus",
+      "url": "https://github.com/iDoka/awesome-canbus",
+      "desc": ":articulated_lorry: Awesome CAN bus tools, hardware and resources for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.",
+      "stars": 3548,
+      "lang": null,
+      "topics": [
+        "automotive",
+        "automotive-security",
+        "awesome",
+        "awesome-list",
+        "bus-monitoring",
+        "can"
+      ],
+      "pushed": "2026-08-07",
+      "archived": false,
+      "platform": "meta",
+      "matched_query": "awesome+embedded"
+    },
+    {
+      "full_name": "fkie-cad/awesome-embedded-and-iot-security",
+      "url": "https://github.com/fkie-cad/awesome-embedded-and-iot-security",
+      "desc": "A curated list of awesome embedded and IoT security resources.",
+      "stars": 2513,
+      "lang": null,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "embedded",
+        "firmware",
+        "iot",
+        "security"
+      ],
+      "pushed": "2023-10-17",
+      "archived": false,
+      "platform": "meta",
+      "matched_query": "awesome+iot"
+    },
+    {
+      "full_name": "nebgnahz/awesome-iot-hacks",
+      "url": "https://github.com/nebgnahz/awesome-iot-hacks",
+      "desc": "A Collection of Hacks in IoT Space so that we can address them (hopefully).",
+      "stars": 2442,
+      "lang": null,
+      "topics": [
+        "awesome",
+        "hack",
+        "iot",
+        "security"
+      ],
+      "pushed": "2020-05-16",
+      "archived": false,
+      "platform": "meta",
+      "matched_query": "awesome+iot"
+    },
+    {
+      "full_name": "esp-rs/awesome-esp-rust",
+      "url": "https://github.com/esp-rs/awesome-esp-rust",
+      "desc": "Curated list of resources for ESP32 development in the Rust programming language",
+      "stars": 1693,
+      "lang": null,
+      "topics": [],
+      "pushed": "2026-09-14",
+      "archived": false,
+      "platform": "meta",
+      "matched_query": "awesome+esp32"
+    },
+    {
+      "full_name": "iDoka/awesome-embedded-software",
+      "url": "https://github.com/iDoka/awesome-embedded-software",
+      "desc": ":stars: List of software (HW interfaces, libs, protocols, etc) specifically suitable for resource-constrained Embedded Systems (low-memory and low-power) like 8-bit, 16-bit and 32-bit microcontrollers.",
+      "stars": 1145,
+      "lang": null,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "c",
+        "crossplatform",
+        "electronics",
+        "embedded"
+      ],
+      "pushed": "2026-08-27",
+      "archived": false,
+      "platform": "meta",
+      "matched_query": "awesome+stm32"
+    },
+    {
+      "full_name": "Lembed/Awesome-arduino",
+      "url": "https://github.com/Lembed/Awesome-arduino",
+      "desc": "A curated list of awesome Arduino hardwares, libraries and softwares with update script",
+      "stars": 731,
+      "lang": "Shell",
+      "topics": [
+        "arduino",
+        "arduino-library"
+      ],
+      "pushed": "2023-12-05",
+      "archived": false,
+      "platform": "meta",
+      "matched_query": "awesome+arduino"
+    },
+    {
+      "full_name": "s0lness/awesome-esp32",
+      "url": "https://github.com/s0lness/awesome-esp32",
+      "desc": "Hand-picked ESP32 projects worth building, copying, or watching run",
+      "stars": 705,
+      "lang": null,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "embedded",
+        "esp32",
+        "esp32-s3",
+        "iot"
+      ],
+      "pushed": "2026-11-03",
+      "archived": false,
+      "platform": "meta",
+      "matched_query": "awesome+esp32"
+    },
+    {
+      "full_name": "iDoka/awesome-linbus",
+      "url": "https://github.com/iDoka/awesome-linbus",
+      "desc": ":articulated_lorry: An awesome LIN bus tools, hardware and resources. It helps a reverse engineering LIN bus devices with lightly specializing in automotive embedded controller software and communication understanding.",
+      "stars": 249,
+      "lang": null,
+      "topics": [
+        "arduino",
+        "automotive",
+        "awesome",
+        "awesome-list",
+        "car-hacking",
+        "embedded"
+      ],
+      "pushed": "2023-09-06",
+      "archived": false,
+      "platform": "meta",
+      "matched_query": "awesome+arduino"
+    },
+    {
+      "full_name": "golioth/awesome-zephyr-rtos",
+      "url": "https://github.com/golioth/awesome-zephyr-rtos",
+      "desc": "🪁 A curated list of awesome projects and resources for the Zephyr RTOS project.",
+      "stars": 230,
+      "lang": null,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "embedded",
+        "iot",
+        "lists",
+        "mcu"
+      ],
+      "pushed": "2026-09-08",
+      "archived": false,
+      "platform": "meta",
+      "matched_query": "awesome+microcontroller"
+    },
+    {
+      "full_name": "Luyi365/awesome-embedded",
+      "url": "https://github.com/Luyi365/awesome-embedded",
+      "desc": "嵌入式开源库速查表，快速定位所需功能。300+ libraries for embedded dev, modularly organized, covering the common ground.",
+      "stars": 227,
+      "lang": null,
+      "topics": [
+        "arduino",
+        "arm",
+        "awesome",
+        "awesome-list",
+        "c",
+        "embedded"
+      ],
+      "pushed": "2026-10-27",
+      "archived": false,
+      "platform": "meta",
+      "matched_query": "awesome+arduino"
+    }
+  ],
+  "other-platforms": [
+    {
+      "full_name": "OpenStickCommunity/GP2040-CE",
+      "url": "https://github.com/OpenStickCommunity/GP2040-CE",
+      "desc": "Multi-Platform Gamepad Firmware for Raspberry Pi Pico and other RP2040 boards",
+      "stars": 2587,
+      "lang": "C++",
+      "topics": [
+        "arcade",
+        "controller",
+        "firmware",
+        "gamepad",
+        "joystick",
+        "raspberry-pi-pico"
+      ],
+      "pushed": "2026-11-05",
+      "archived": false,
+      "platform": "RP2040",
+      "matched_query": "rp2040+firmware"
+    },
+    {
+      "full_name": "MaJerle/stm32f429",
+      "url": "https://github.com/MaJerle/stm32f429",
+      "desc": "Keil projects and libraries for STM32F4xx devices",
+      "stars": 2523,
+      "lang": "C",
+      "topics": [
+        "discovery-board",
+        "microcontrollers",
+        "stm32",
+        "stmicroelectronics"
+      ],
+      "pushed": "2022-12-16",
+      "archived": false,
+      "platform": "STM32",
+      "matched_query": "stm32+projects"
+    },
+    {
+      "full_name": "rmk-rs/rmk",
+      "url": "https://github.com/rmk-rs/rmk",
+      "desc": "A modern, easy-to-use, and feature-rich keyboard firmware written in Rust.",
+      "stars": 1800,
+      "lang": "Rust",
+      "topics": [
+        "cortex-m",
+        "embedded",
+        "esp32",
+        "firmware",
+        "keyboard",
+        "keyboard-firmware"
+      ],
+      "pushed": "2026-11-05",
+      "archived": false,
+      "platform": "RP2040",
+      "matched_query": "rp2040+firmware"
+    },
+    {
+      "full_name": "kritishmohapatra/100_Days_100_IoT_Projects",
+      "url": "https://github.com/kritishmohapatra/100_Days_100_IoT_Projects",
+      "desc": "A 100-day challenge exploring IoT and embedded systems using ESP32, ESP8266, and Raspberry Pi Pico with MicroPython. Each day covers a new sensor or module with complete code, circuit diagram, and explanation.",
+      "stars": 1559,
+      "lang": "Python",
+      "topics": [
+        "100daysofcode",
+        "adafruit",
+        "cpp",
+        "embedded-systems",
+        "embedded-systems-and-iot",
+        "esp32"
+      ],
+      "pushed": "2026-07-17",
+      "archived": false,
+      "platform": "RP2040",
+      "matched_query": "raspberry+pi+pico+projects"
+    },
+    {
+      "full_name": "WeebLabs/DSPi",
+      "url": "https://github.com/WeebLabs/DSPi",
+      "desc": "A fully featured audio DSP firmware for the Raspberry Pi Pico (RP2040) and Pico 2 (RP2350).  Official Discord: https://discord.gg/RCyqxAQ5xS",
+      "stars": 1399,
+      "lang": "C",
+      "topics": [],
+      "pushed": "2026-11-02",
+      "archived": false,
+      "platform": "RP2040",
+      "matched_query": "rp2040+firmware"
+    },
+    {
+      "full_name": "STMicroelectronics/STM32CubeF4",
+      "url": "https://github.com/STMicroelectronics/STM32CubeF4",
+      "desc": "STM32Cube MCU Full Package for the STM32F4 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discovery Kits))",
+      "stars": 1363,
+      "lang": "C",
+      "topics": [
+        "stm32cube-mcu-package"
+      ],
+      "pushed": "2026-10-05",
+      "archived": false,
+      "platform": "STM32",
+      "matched_query": "stm32+projects"
+    },
+    {
+      "full_name": "raspberrypi/debugprobe",
+      "url": "https://github.com/raspberrypi/debugprobe",
+      "desc": "Firmware source and binaries for the RP2040-based Debug Probe accessory",
+      "stars": 1282,
+      "lang": "C",
+      "topics": [],
+      "pushed": "2026-10-02",
+      "archived": false,
+      "platform": "RP2040",
+      "matched_query": "rp2040+firmware"
+    },
+    {
+      "full_name": "swiftlang/swift-embedded-examples",
+      "url": "https://github.com/swiftlang/swift-embedded-examples",
+      "desc": "A collection of example projects using Embedded Swift",
+      "stars": 1048,
+      "lang": "Swift",
+      "topics": [
+        "embedded",
+        "esp32",
+        "example",
+        "nrf",
+        "raspberrypi",
+        "stm32"
+      ],
+      "pushed": "2026-11-01",
+      "archived": false,
+      "platform": "STM32",
+      "matched_query": "stm32+projects"
+    },
+    {
+      "full_name": "STMicroelectronics/STM32CubeH7",
+      "url": "https://github.com/STMicroelectronics/STM32CubeH7",
+      "desc": "STM32Cube MCU Full Package for the STM32H7 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discovery Kits))",
+      "stars": 778,
+      "lang": "C",
+      "topics": [
+        "stm32",
+        "stm32cube-mcu-package",
+        "stm32h7"
+      ],
+      "pushed": "2026-09-04",
+      "archived": false,
+      "platform": "STM32",
+      "matched_query": "stm32+projects"
+    },
+    {
+      "full_name": "MYaqoobEmbedded/STM32-Tutorials",
+      "url": "https://github.com/MYaqoobEmbedded/STM32-Tutorials",
+      "desc": "This folder contains all my STM32 programming projects shared on YouTube",
+      "stars": 757,
+      "lang": "C",
+      "topics": [],
+      "pushed": "2022-08-01",
+      "archived": false,
+      "platform": "STM32",
+      "matched_query": "stm32+projects"
+    },
+    {
+      "full_name": "STMicroelectronics/STM32CubeF1",
+      "url": "https://github.com/STMicroelectronics/STM32CubeF1",
+      "desc": "STM32Cube MCU Full Package for the STM32F1 series - (HAL + LL Drivers, CMSIS Core, CMSIS Device, MW libraries plus a set of Projects running on all boards provided by ST (Nucleo, Evaluation and Discovery Kits))",
+      "stars": 749,
+      "lang": "HTML",
+      "topics": [
+        "stm32cube-mcu-package"
+      ],
+      "pushed": "2026-09-16",
+      "archived": false,
+      "platform": "STM32",
+      "matched_query": "stm32+projects"
+    },
+    {
+      "full_name": "STMicroelectronics/STM32Cube_MCU_Overall_Offer",
+      "url": "https://github.com/STMicroelectronics/STM32Cube_MCU_Overall_Offer",
+      "desc": "This repo describes all STM32 MCU related GitHub projects. The open source offer for the STM32 MCU products",
+      "stars": 739,
+      "lang": null,
+      "topics": [
+        "stm32cube"
+      ],
+      "pushed": "2026-11-02",
+      "archived": false,
+      "platform": "STM32",
+      "matched_query": "stm32+projects"
+    },
+    {
+      "full_name": "zacharyweiss/magspoof_flipper",
+      "url": "https://github.com/zacharyweiss/magspoof_flipper",
+      "desc": "Port of Samy Kamkar's MagSpoof project (http://samy.pl/magspoof/) to the Flipper Zero. Enables wireless emulation of magstripe data, primarily over GPIO, with additional experimental internal TX.",
+      "stars": 734,
+      "lang": "C",
+      "topics": [
+        "flipper",
+        "flipper-app",
+        "flipper-plugin",
+        "flipper-plugins",
+        "flipper-zero",
+        "flipper0"
+      ],
+      "pushed": "2025-04-02",
+      "archived": false,
+      "platform": "STM32",
+      "matched_query": "stm32+projects"
+    },
+    {
+      "full_name": "ffenix113/zigbee_home",
+      "url": "https://github.com/ffenix113/zigbee_home",
+      "desc": "Project to provide functionality similar to ESPHome but for Zigbee instead of WiFi for nRF52, nRF53 & nRF54L",
+      "stars": 672,
+      "lang": "Go",
+      "topics": [
+        "esphome",
+        "home-assistant",
+        "nrf52",
+        "nrf52840",
+        "nrf52840-dongle",
+        "nrf53"
+      ],
+      "pushed": "2026-02-10",
+      "archived": false,
+      "platform": "nRF52",
+      "matched_query": "nrf52+projects"
+    },
+    {
+      "full_name": "mcknly/breadboard-os",
+      "url": "https://github.com/mcknly/breadboard-os",
+      "desc": "A firmware platform aimed at quick prototyping, built around FreeRTOS and a feature-packed CLI",
+      "stars": 602,
+      "lang": "C",
+      "topics": [
+        "arm",
+        "cli",
+        "command-line-interface",
+        "embedded",
+        "firmware",
+        "freertos"
+      ],
+      "pushed": "2025-02-25",
+      "archived": false,
+      "platform": "RP2040",
+      "matched_query": "rp2040+firmware"
+    },
+    {
+      "full_name": "picoruby/prk_firmware",
+      "url": "https://github.com/picoruby/prk_firmware",
+      "desc": "A keyboard firmware platform in PicoRuby",
+      "stars": 597,
+      "lang": "C",
+      "topics": [
+        "firmware",
+        "keyboard",
+        "picoruby",
+        "raspberry-pi-pico",
+        "rp2040"
+      ],
+      "pushed": "2025-01-09",
+      "archived": false,
+      "platform": "RP2040",
+      "matched_query": "rp2040+firmware"
+    },
+    {
+      "full_name": "controllerstech/STM32-HAL",
+      "url": "https://github.com/controllerstech/STM32-HAL",
+      "desc": "STM32 Projects",
+      "stars": 472,
+      "lang": "C",
+      "topics": [],
+      "pushed": "2026-08-15",
+      "archived": false,
+      "platform": "STM32",
+      "matched_query": "stm32+projects"
+    },
+    {
+      "full_name": "heliosproj/HeliOS",
+      "url": "https://github.com/heliosproj/HeliOS",
+      "desc": "A community delivered, open source embedded operating system project.",
+      "stars": 413,
+      "lang": "C",
+      "topics": [
+        "arduino",
+        "arm",
+        "avr",
+        "embedded",
+        "freertos",
+        "multitasking"
+      ],
+      "pushed": "2025-11-02",
+      "archived": false,
+      "platform": "Teensy",
+      "matched_query": "teensy+projects"
+    },
+    {
+      "full_name": "paulober/MicroPico",
+      "url": "https://github.com/paulober/MicroPico",
+      "desc": "MicroPico (aka Pico-W-Go) is a Visual Studio Code extension designed to simplify and speed up the development of MicroPython projects for the Raspberry Pi Pico (2) and Pico (2) W boards.",
+      "stars": 393,
+      "lang": "TypeScript",
+      "topics": [
+        "esp32",
+        "micropython",
+        "micropython-rpi-pico",
+        "raspberry-pi-pico",
+        "raspberry-pi-pico-w",
+        "vscode"
+      ],
+      "pushed": "2026-11-01",
+      "archived": false,
+      "platform": "RP2040",
+      "matched_query": "raspberry+pi+pico+projects"
+    },
+    {
+      "full_name": "raspberrypi/pico-vscode",
+      "url": "https://github.com/raspberrypi/pico-vscode",
+      "desc": "The official VS Code extension for Raspberry Pi Pico development. It includes several features to simplify project creation and deployment.",
+      "stars": 300,
+      "lang": "TypeScript",
+      "topics": [],
+      "pushed": "2026-11-04",
+      "archived": false,
+      "platform": "RP2040",
+      "matched_query": "raspberry+pi+pico+projects"
+    },
+    {
+      "full_name": "r-morato/HASS-epaper-display",
+      "url": "https://github.com/r-morato/HASS-epaper-display",
+      "desc": "This project displays key smart home and server stats on a 7.5\" e-paper screen using an ESP32-C3 board running ESPHome.",
+      "stars": 283,
+      "lang": null,
+      "topics": [],
+      "pushed": "2026-09-14",
+      "archived": false,
+      "platform": "ESP32-C3",
+      "matched_query": "esp32-c3+projects"
+    },
+    {
+      "full_name": "dawsonjon/101Things",
+      "url": "https://github.com/dawsonjon/101Things",
+      "desc": "A collection of cool projects to make!",
+      "stars": 231,
+      "lang": "G-code",
+      "topics": [
+        "audio",
+        "clock",
+        "cnc",
+        "effects",
+        "guitar",
+        "ham"
+      ],
+      "pushed": "2026-08-30",
+      "archived": false,
+      "platform": "RP2040",
+      "matched_query": "raspberry+pi+pico+projects"
+    },
+    {
+      "full_name": "espressif/book-esp32c3-iot-projects",
+      "url": "https://github.com/espressif/book-esp32c3-iot-projects",
+      "desc": "《ESP32-C3 物联网工程开发实战》配套代码",
+      "stars": 191,
+      "lang": "Swift",
+      "topics": [],
+      "pushed": "2023-01-04",
+      "archived": false,
+      "platform": "ESP32-C3",
+      "matched_query": "esp32-c3+projects"
+    }
+  ]
+}
